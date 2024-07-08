@@ -11,8 +11,7 @@ Quelle: https://www.datev.de/web/de/datev-shop/material/12902-datev-kontenrahmen
 
 ## Modifikation der Import-Regel
 
-Bei einem Import der Kontenrahmen in Dolibarr ist die Zeichenlänge für das Feld "Kontenklasse" auf 20 Zeichenbechränkt. Das ist für die Bezeichnung der Konetenklassen laut SKR 42 teilweise zu wenig. Durch eine Manipulation der Datei "/htdocs/core/modules
-/modAccounting.class.php" lässt sich das beheben. Ein RegEx-Wert wird wie folgt so angepasst, dass anstatt 20 Zeichen anschließend 99 Zeichen erlaubt sind:
+Bei einem Import der Kontenrahmen in Dolibarr ist die Zeichenlänge für das Feld "Kontenklasse" auf 20 Zeichen beschränkt. Das ist für die Bezeichnung der Kontenklassen laut SKR 42 teilweise zu wenig. Durch eine Manipulation der Datei `/htdocs/core/modules/modAccounting.class.php` lässt sich das beheben. Ein RegEx-Wert wird wie folgt so angepasst, dass anstatt 20 Zeichen anschließend 99 Zeichen erlaubt sind:
 
 	ORG: '$this->import_regex_array[$r] = array('aa.fk_pcg_version'=>'pcg_version@'.MAIN_DB_PREFIX.'accounting_system', 'aa.account_number'=>'^.{1,32}$', 'aa.label'=>'^.{1,255}$', 'aa.account_parent'=>'^.{0,32}$', 'aa.fk_accounting_category'=>'rowid@'.MAIN_DB_PREFIX.'c_accounting_category', ** 'aa.pcg_type'=>'^.{1,20}$', ** 'aa.active'=>'^0|1$', 'aa.datec'=>'^\d{4}-\d{2}-\d{2}$');'
     NEW: '$this->import_regex_array[$r] = array('aa.fk_pcg_version'=>'pcg_version@'.MAIN_DB_PREFIX.'accounting_system', 'aa.account_number'=>'^.{1,32}$', 'aa.label'=>'^.{1,255}$', 'aa.account_parent'=>'^.{0,32}$', 'aa.fk_accounting_category'=>'rowid@'.MAIN_DB_PREFIX.'c_accounting_category', ** 'aa.pcg_type'=>'^.{1,99}$', ** 'aa.active'=>'^0|1$', 'aa.datec'=>'^\d{4}-\d{2}-\d{2}$');'
