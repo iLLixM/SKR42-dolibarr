@@ -6,7 +6,7 @@ Kontenrahmen SKR42 für Vereine, Stiftungen und gGmbH - zur Gewinnermittlung gem
 Quelle: https://www.datev.de/web/de/datev-shop/material/12902-datev-kontenrahmen-skr-42-vereine-stiftungen-ggmbh-4-abs-3-estg/
 
 - als plain extrahierte [CSV](skr42_extract.csv) (Spalten "Konto";"Kontoname") zum Weiterverarbeten für alle weiteren Einsatzszenarien
-- als [importfähige CSV](SKR42_EuR.csv)
+- als direkt [importfähige CSV](SKR42_EuR.csv) in Dolibarr
 - als [XLSX](SKR42_EuR.xlsx) zum Bearbeiten, Filtern, etc. 
 
 ## Modifikation der Import-Regel
