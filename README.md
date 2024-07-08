@@ -14,17 +14,17 @@ Quelle: https://www.datev.de/web/de/datev-shop/material/12902-datev-kontenrahmen
 Bei einem Import der Kontenrahmen in Dolibarr ist die Zeichenlänge für das Feld "Kontenklasse" auf 20 Zeichenbechränkt. Das ist für die Bezeichnung der Konetenklassen laut SKR 42 teilweise zu wenig. Durch eine Manipulation der Datei "/htdocs/core/modules
 /modAccounting.class.php" lässt sich das beheben. Ein RegEx-Wert wird wie folgt so angepasst, dass anstatt 20 Zeichen anschließend 99 Zeichen erlaubt sind:
 
-	'$this->import_regex_array[$r] = array('aa.fk_pcg_version'=>'pcg_version@'.MAIN_DB_PREFIX.'accounting_system', 'aa.account_number'=>'^.{1,32}$', 'aa.label'=>'^.{1,255}$', 'aa.account_parent'=>'^.{0,32}$', 'aa.fk_accounting_category'=>'rowid@'.MAIN_DB_PREFIX.'c_accounting_category', ** 'aa.pcg_type'=>'^.{1,20}$', ** 'aa.active'=>'^0|1$', 'aa.datec'=>'^\d{4}-\d{2}-\d{2}$');'
-    '$this->import_regex_array[$r] = array('aa.fk_pcg_version'=>'pcg_version@'.MAIN_DB_PREFIX.'accounting_system', 'aa.account_number'=>'^.{1,32}$', 'aa.label'=>'^.{1,255}$', 'aa.account_parent'=>'^.{0,32}$', 'aa.fk_accounting_category'=>'rowid@'.MAIN_DB_PREFIX.'c_accounting_category', ** 'aa.pcg_type'=>'^.{1,99}$', ** 'aa.active'=>'^0|1$', 'aa.datec'=>'^\d{4}-\d{2}-\d{2}$');'
+	ORG: '$this->import_regex_array[$r] = array('aa.fk_pcg_version'=>'pcg_version@'.MAIN_DB_PREFIX.'accounting_system', 'aa.account_number'=>'^.{1,32}$', 'aa.label'=>'^.{1,255}$', 'aa.account_parent'=>'^.{0,32}$', 'aa.fk_accounting_category'=>'rowid@'.MAIN_DB_PREFIX.'c_accounting_category', ** 'aa.pcg_type'=>'^.{1,20}$', ** 'aa.active'=>'^0|1$', 'aa.datec'=>'^\d{4}-\d{2}-\d{2}$');'
+    NEW: '$this->import_regex_array[$r] = array('aa.fk_pcg_version'=>'pcg_version@'.MAIN_DB_PREFIX.'accounting_system', 'aa.account_number'=>'^.{1,32}$', 'aa.label'=>'^.{1,255}$', 'aa.account_parent'=>'^.{0,32}$', 'aa.fk_accounting_category'=>'rowid@'.MAIN_DB_PREFIX.'c_accounting_category', ** 'aa.pcg_type'=>'^.{1,99}$', ** 'aa.active'=>'^0|1$', 'aa.datec'=>'^\d{4}-\d{2}-\d{2}$');'
 
 ## Import des Kontenplans in Dolibarr
 
 Unter Buchhaltung - Einstellungen - Allgemein sollte die Funktion "Beibehalten der Nullen am Ende eines Buchungskontos ("1200")" aktiviert werden.
 
 Der Import des Kontenplan funktioniert in Dolibarr über Tools - Import-Assistent - Neuer Import - Buchhaltung (erweitert) / Kontenplan. Dort unter csv die Datei [SKR42_EuR.csv](SKR42_EuR.csv) hochladen. Im 4. Schritt müssen jeweils die Spalten der Tabelle den (in der Frontend-Übersetzung) gleichnamigen Datenbankfeldern zugeordnet werden.\
-**Wichtig:**  Damit die Referenzen jeweils auf "Übergeordnetes Konto" eingetragen werden können, ist ein zweistufiger Import von Nöten (ansonstem kommt es zu Fehlermeldungen beim Import). Lasst beim ersten Import die Zuorndung der Spalte "Übergeordnetes Konto" leer.
-Führe den Import mit der gleichen Datei erneut aus und lass nun auc die Spalte "Übergeordnetes Konto" zuordnen. In Schritt 5 ist dabei allerdings beim Punkt "Schlüssel (Spalte), der zum Aktualisieren der vorhandenen Daten von verwendet wird" der EIntrg "Buchungskonto" zu aktiveren.
+**Wichtig:**  Damit die Referenzen jeweils auf "Übergeordnetes Konto" eingetragen werden können, ist ein zweistufiger Import von Nöten (ansonstem kommt es zu Fehlermeldungen beim Import). Beim ersten Import ist die Zuorndung der Spalte "Übergeordnetes Konto" leer zu lassen.\
+Der Import wird anschließend mit der gleichen Datei erneut ausgeführt. In diesem wird nun auch die Spalte "Übergeordnetes Konto" zugeordnet. In Schritt 5 ist dabei allerdings beim Punkt "Schlüssel (Spalte), der zum Aktualisieren der vorhandenen Daten von verwendet wird" der Eintrag "Buchungskonto" zu aktiveren.
 
-Wenn du den Kontenplan erneut importierst, wähle in Schritt 5 einen oder mehrere Werte in der Option "Schlüssel (Spalte), der zum Aktualisieren der vorhandenen Daten von verwendet wird" aus.
+Wenn der Kontenplan erneut (bspw. mit Änderungen) importiert werden soll, ist in Schritt 5 einer oder mehrere Werte in der Option "Schlüssel (Spalte), der zum Aktualisieren der vorhandenen Daten von verwendet wird" auszuwählen.
 
 Standardmäßig sind alle Konten deaktiviert! Die benötigten Konten müssen also zuerst aktiviert werden, bevor sie genutzt werden können.
