@@ -1,0 +1,1129 @@
+﻿Kontenplan;ID;Buchungskonto;Bezeichnung;Übergeordnetes Konto;Kontenklasse;Benutzerdefinierte Kontengruppe;Status
+SKR42;;01000;Entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten;ref:01000;0: Anlagevermögenskonten;;0
+SKR42;;01100;Konzessionen;ref:01100;0: Anlagevermögenskonten;;0
+SKR42;;01200;Gewerbliche Schutzrechte;ref:01200;0: Anlagevermögenskonten;;0
+SKR42;;01300;Ähnliche Rechte und Werte;ref:01300;0: Anlagevermögenskonten;;0
+SKR42;;01350;EDV-Software;ref:01350;0: Anlagevermögenskonten;;0
+SKR42;;01400;Lizenzen an gewerblichen Schutzrechten und ähnlichen Rechten und Werten;ref:01400;0: Anlagevermögenskonten;;0
+SKR42;;01500;Geschäfts- oder Firmenwert;ref:01500;0: Anlagevermögenskonten;;0
+SKR42;;01700;Geleistete Anzahlungen auf immaterielle Vermögensgegenstände;ref:01700;0: Anlagevermögenskonten;;0
+SKR42;;01790;Anzahlungen auf Geschäfts- oder Firmenwert;ref:01790;0: Anlagevermögenskonten;;0
+SKR42;;02000;Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken;ref:02000;0: Anlagevermögenskonten;;0
+SKR42;;02100;Grundstücksgleiche Rechte ohne Bauten;ref:02100;0: Anlagevermögenskonten;;0
+SKR42;;02150;Unbebaute Grundstücke;ref:02150;0: Anlagevermögenskonten;;0
+SKR42;;02200;Grundstücksgleiche Rechte (Erbbaurecht, Dauerwohnrecht, unbebaute Grundstücke);ref:02200;0: Anlagevermögenskonten;;0
+SKR42;;02250;Grundstücke mit Substanzverzehr;ref:02250;0: Anlagevermögenskonten;;0
+SKR42;;02300;Bauten auf eigenen Grundstücken und grundstücksgleichen Rechten;ref:02300;0: Anlagevermögenskonten;;0
+SKR42;;02350;Grundstückswerte eigener bebauter Grundstücke;ref:02350;0: Anlagevermögenskonten;;0
+SKR42;;02400;Geschäftsbauten;ref:02400;0: Anlagevermögenskonten;;0
+SKR42;;02410;Gebäude;ref:02410;0: Anlagevermögenskonten;;0
+SKR42;;02430;Hallen;ref:02430;0: Anlagevermögenskonten;;0
+SKR42;;02440;Gaststätte;ref:02440;0: Anlagevermögenskonten;;0
+SKR42;;02500;Fabrikbauten;ref:02500;0: Anlagevermögenskonten;;0
+SKR42;;02600;Andere Bauten;ref:02600;0: Anlagevermögenskonten;;0
+SKR42;;02700;Garagen;ref:02700;0: Anlagevermögenskonten;;0
+SKR42;;02800;Außenanlagen;ref:02800;0: Anlagevermögenskonten;;0
+SKR42;;02850;Hof- und Wegebefestigungen;ref:02850;0: Anlagevermögenskonten;;0
+SKR42;;02900;Einrichtungen für Geschäfts- und andere Bauten;ref:02900;0: Anlagevermögenskonten;;0
+SKR42;;03000;Wohnbauten;ref:03000;0: Anlagevermögenskonten;;0
+SKR42;;03050;Garagen;ref:03050;0: Anlagevermögenskonten;;0
+SKR42;;03100;Außenanlagen;ref:03100;0: Anlagevermögenskonten;;0
+SKR42;;03150;Hof- und Wegebefestigungen;ref:03150;0: Anlagevermögenskonten;;0
+SKR42;;03200;Einrichtungen für Wohnbauten;ref:03200;0: Anlagevermögenskonten;;0
+SKR42;;03300;Bauten auf fremden Grundstücken;ref:03300;0: Anlagevermögenskonten;;0
+SKR42;;03400;Geschäftsbauten;ref:03400;0: Anlagevermögenskonten;;0
+SKR42;;03500;Fabrikbauten;ref:03500;0: Anlagevermögenskonten;;0
+SKR42;;03600;Wohnbauten;ref:03600;0: Anlagevermögenskonten;;0
+SKR42;;03700;Andere Bauten;ref:03700;0: Anlagevermögenskonten;;0
+SKR42;;03800;Garagen;ref:03800;0: Anlagevermögenskonten;;0
+SKR42;;03900;Außenanlagen;ref:03900;0: Anlagevermögenskonten;;0
+SKR42;;03950;Hof- und Wegebefestigungen;ref:03950;0: Anlagevermögenskonten;;0
+SKR42;;03980;Einrichtungen für Geschäfts-, Wohn- und andere Bauten;ref:03980;0: Anlagevermögenskonten;;0
+SKR42;;04000;Technische Anlagen und Maschinen;ref:04000;0: Anlagevermögenskonten;;0
+SKR42;;04200;Technische Anlagen;ref:04200;0: Anlagevermögenskonten;;0
+SKR42;;04400;Maschinen;ref:04400;0: Anlagevermögenskonten;;0
+SKR42;;04500;Transportanlagen und Ähnliches;ref:04500;0: Anlagevermögenskonten;;0
+SKR42;;04600;Maschinengebundene Werkzeuge;ref:04600;0: Anlagevermögenskonten;;0
+SKR42;;04700;Betriebsvorrichtungen;ref:04700;0: Anlagevermögenskonten;;0
+SKR42;;05000;Andere Anlagen, Betriebs- und Geschäftsausstattung;ref:05000;0: Anlagevermögenskonten;;0
+SKR42;;05100;Andere Anlagen;ref:05100;0: Anlagevermögenskonten;;0
+SKR42;;05200;Pkw;ref:05200;0: Anlagevermögenskonten;;0
+SKR42;;05250;Kraftfahrzeug-Anhänger;ref:05250;0: Anlagevermögenskonten;;0
+SKR42;;05400;Lkw;ref:05400;0: Anlagevermögenskonten;;0
+SKR42;;05600;Sonstige Transportmittel;ref:05600;0: Anlagevermögenskonten;;0
+SKR42;;05700;Pflegemaschinen;ref:05700;0: Anlagevermögenskonten;;0
+SKR42;;06200;Werkzeuge;ref:06200;0: Anlagevermögenskonten;;0
+SKR42;;06300;Betriebsausstattung;ref:06300;0: Anlagevermögenskonten;;0
+SKR42;;06310;Kleidung;ref:06310;0: Anlagevermögenskonten;;0
+SKR42;;06320;Geräte;ref:06320;0: Anlagevermögenskonten;;0
+SKR42;;06350;Geschäftsausstattung;ref:06350;0: Anlagevermögenskonten;;0
+SKR42;;06400;Ladeneinrichtung;ref:06400;0: Anlagevermögenskonten;;0
+SKR42;;06500;Büroeinrichtung;ref:06500;0: Anlagevermögenskonten;;0
+SKR42;;06600;Gerüst- und Schalungsmaterial;ref:06600;0: Anlagevermögenskonten;;0
+SKR42;;06700;Geringwertige Wirtschaftsgüter;ref:06700;0: Anlagevermögenskonten;;0
+SKR42;;06750;Wirtschaftsgüter (Sammelposten);ref:06750;0: Anlagevermögenskonten;;0
+SKR42;;06800;Einbauten in fremde Grundstücke;ref:06800;0: Anlagevermögenskonten;;0
+SKR42;;06900;Sonstige Betriebs- und Geschäftsausstattung;ref:06900;0: Anlagevermögenskonten;;0
+SKR42;;07000;Geleistete Anzahlungen und Anlagen im Bau;ref:07000;0: Anlagevermögenskonten;;0
+SKR42;;07050;Anzahlungen auf Grund und Boden;ref:07050;0: Anlagevermögenskonten;;0
+SKR42;;07100;Geschäfts-, Fabrik- und andere Bauten im Bau auf eigenen Grundstücken;ref:07100;0: Anlagevermögenskonten;;0
+SKR42;;07200;Anzahlungen auf Geschäfts-, Fabrik- und andere Bauten auf eigenen Grundstücken;ref:07200;0: Anlagevermögenskonten;;0
+SKR42;;07250;Wohnbauten im Bau auf eigenen Grundstücken;ref:07250;0: Anlagevermögenskonten;;0
+SKR42;;07350;Anzahlungen auf Wohnbauten auf eigenen Grundstücken;ref:07350;0: Anlagevermögenskonten;;0
+SKR42;;07400;Geschäfts-, Fabrik- und andere Bauten im Bau auf fremden Grundstücken;ref:07400;0: Anlagevermögenskonten;;0
+SKR42;;07500;Anzahlungen auf Geschäfts-, Fabrik- und andere Bauten auf fremden Grundstücken;ref:07500;0: Anlagevermögenskonten;;0
+SKR42;;07550;Wohnbauten im Bau auf fremden Grundstücken;ref:07550;0: Anlagevermögenskonten;;0
+SKR42;;07650;Anzahlungen auf Wohnbauten auf fremden Grundstücken;ref:07650;0: Anlagevermögenskonten;;0
+SKR42;;07700;Technische Anlagen und Maschinen im Bau;ref:07700;0: Anlagevermögenskonten;;0
+SKR42;;07800;Anzahlungen auf technische Anlagen und Maschinen;ref:07800;0: Anlagevermögenskonten;;0
+SKR42;;07850;Andere Anlagen, Betriebs- und Geschäftsausstattung im Bau;ref:07850;0: Anlagevermögenskonten;;0
+SKR42;;07950;Anzahlungen auf andere Anlagen, Betriebs- und Geschäftsausstattung;ref:07950;0: Anlagevermögenskonten;;0
+SKR42;;08000;Anteile an verbundenen Unternehmen (Anlagevermögen);ref:08000;0: Anlagevermögenskonten;;0
+SKR42;;08030;Anteile an verbundenen Unternehmen, Personengesellschaften;ref:08030;0: Anlagevermögenskonten;;0
+SKR42;;08040;Anteile an verbundenen Unternehmen, Kapitalgesellschaften;ref:08040;0: Anlagevermögenskonten;;0
+SKR42;;08050;Anteile an herrschender oder mehrheitlich beteiligter Gesellschaft, Personengesellschaften;ref:08050;0: Anlagevermögenskonten;;0
+SKR42;;08080;Anteile an herrschender oder mehrheitlich beteiligter Gesellschaft, Kapitalgesellschaften;ref:08080;0: Anlagevermögenskonten;;0
+SKR42;;08090;Anteile an herrschender oder mit Mehrheit beteiligter Gesellschaft;ref:08090;0: Anlagevermögenskonten;;0
+SKR42;;08100;Ausleihungen an verbundene Unternehmen;ref:08100;0: Anlagevermögenskonten;;0
+SKR42;;08130;Ausleihungen an verbundene Unternehmen, Personengesellschaften;ref:08130;0: Anlagevermögenskonten;;0
+SKR42;;08140;Ausleihungen an verbundene Unternehmen, Kapitalgesellschaften;ref:08140;0: Anlagevermögenskonten;;0
+SKR42;;08150;Ausleihungen an verbundene Unternehmen, Einzelunternehmen;ref:08150;0: Anlagevermögenskonten;;0
+SKR42;;08200;Beteiligungen;ref:08200;0: Anlagevermögenskonten;;0
+SKR42;;08300;Typisch stille Beteiligungen;ref:08300;0: Anlagevermögenskonten;;0
+SKR42;;08400;Atypisch stille Beteiligungen;ref:08400;0: Anlagevermögenskonten;;0
+SKR42;;08500;Beteiligungen an Kapitalgesellschaften;ref:08500;0: Anlagevermögenskonten;;0
+SKR42;;08600;Beteiligungen an Personengesellschaften;ref:08600;0: Anlagevermögenskonten;;0
+SKR42;;08800;Ausleihungen an Unternehmen, mit denen ein Beteiligungsverhältnis besteht;ref:08800;0: Anlagevermögenskonten;;0
+SKR42;;08830;Ausleihungen an Unternehmen, mit denen ein Beteiligungsverhältnis besteht, Personengesellschaften;ref:08830;0: Anlagevermögenskonten;;0
+SKR42;;08850;Ausleihungen an Unternehmen, mit denen ein Beteiligungsverhältnis besteht, Kapitalgesellschaften;ref:08850;0: Anlagevermögenskonten;;0
+SKR42;;09000;Wertpapiere des Anlagevermögens;ref:09000;0: Anlagevermögenskonten;;0
+SKR42;;09100;Wertpapiere mit Gewinnbeteiligungsansprüchen, die dem Teileinkünfteverfahren unterliegen;ref:09100;0: Anlagevermögenskonten;;0
+SKR42;;09200;Festverzinsliche Wertpapiere;ref:09200;0: Anlagevermögenskonten;;0
+SKR42;;09300;Übrige sonstige Ausleihungen;ref:09300;0: Anlagevermögenskonten;;0
+SKR42;;09350;Sonstige Ausleihungen - geleistete Kautionen;ref:09350;0: Anlagevermögenskonten;;0
+SKR42;;09400;Darlehen;ref:09400;0: Anlagevermögenskonten;;0
+SKR42;;09800;Genossenschaftsanteile zum langfristigen Verbleib;ref:09800;0: Anlagevermögenskonten;;0
+SKR42;;09900;Rückdeckungsansprüche aus Lebensversicherungen zum langfristigen Verbleib;ref:09900;0: Anlagevermögenskonten;;0
+SKR42;;10000;Roh-, Hilfs- und Betriebsstoffe (Bestand);ref:10000;1: Umlaufvermögenskonten;;0
+SKR42;;10400;Unfertige Erzeugnisse, unfertige Leistungen (Bestand);ref:10400;1: Umlaufvermögenskonten;;0
+SKR42;;11100;Fertige Erzeugnisse (Bestand);ref:11100;1: Umlaufvermögenskonten;;0
+SKR42;;11800;Geleistete Anzahlungen auf Vorräte;ref:11800;1: Umlaufvermögenskonten;;0
+SKR42;;11810;Geleistete Anzahlungen 7 % Vorsteuer;ref:11810;1: Umlaufvermögenskonten;;0
+SKR42;;11820;Geleistete Anzahlungen 5 % Vorsteuer;ref:11820;1: Umlaufvermögenskonten;;0
+SKR42;;11840;Geleistete Anzahlungen 16 % Vorsteuer;ref:11840;1: Umlaufvermögenskonten;;0
+SKR42;;11860;Geleistete Anzahlungen 19 % Vorsteuer;ref:11860;1: Umlaufvermögenskonten;;0
+SKR42;;11900;Erhaltene Anzahlungen auf Bestellungen (von Vorräten offen abgesetzt);ref:11900;1: Umlaufvermögenskonten;;0
+SKR42;;12000;Forderungen aus Lieferungen und Leistungen;ref:12000;1: Umlaufvermögenskonten;;0
+SKR42;;12100;Forderungen aus Lieferungen und Leistungen ohne Kontokorrent;ref:12100;1: Umlaufvermögenskonten;;0
+SKR42;;12150;Forderungen aus Lieferungen und Leistungen zum allgemeinen Umsatzsteuersatz oder eines Kleinunternehmers (EÜR);ref:12150;1: Umlaufvermögenskonten;;0
+SKR42;;12160;Forderungen aus Lieferungen und Leistungen zum ermäßigten Umsatzsteuersatz (EÜR);ref:12160;1: Umlaufvermögenskonten;;0
+SKR42;;12170;Forderungen aus steuerfreien oder nicht steuerbaren Lieferungen und Leistungen (EÜR);ref:12170;1: Umlaufvermögenskonten;;0
+SKR42;;12180;Forderungen aus Lieferungen und Leistungen nach Durchschnittssätzen nach § 24 UStG (EÜR);ref:12180;1: Umlaufvermögenskonten;;0
+SKR42;;12190;Gegenkonto 12150 - 12189 bei Aufteilung der Forderungen nach Steuersätzen (EÜR);ref:12190;1: Umlaufvermögenskonten;;0
+SKR42;;12200;Forderungen nach § 11 Abs. 1 S. 2 EStG für § 4 Abs. 3 EStG;ref:12200;1: Umlaufvermögenskonten;;0
+SKR42;;12210;Forderungen aus Lieferungen und Leistungen ohne Kontokorrent - Restlaufzeit bis 1 Jahr;ref:12210;1: Umlaufvermögenskonten;;0
+SKR42;;12300;Wechsel aus Lieferungen und Leistungen;ref:12300;1: Umlaufvermögenskonten;;0
+SKR42;;12350;Wechsel aus Lieferungen und Leistungen, bundesbankfähig;ref:12350;1: Umlaufvermögenskonten;;0
+SKR42;;12400;Zweifelhafte Forderungen;ref:12400;1: Umlaufvermögenskonten;;0
+SKR42;;12590;Gegenkonto 12210 - 12299, 12400 - 12459, 12700 - 12759, 12900 - 12979 bei Aufteilung Debitorenkonto;ref:12590;1: Umlaufvermögenskonten;;0
+SKR42;;12600;Forderungen gegen verbundene Unternehmen;ref:12600;1: Umlaufvermögenskonten;;0
+SKR42;;12660;Besitzwechsel gegen verbundene Unternehmen;ref:12660;1: Umlaufvermögenskonten;;0
+SKR42;;12690;Besitzwechsel gegen verbundene Unternehmen, bundesbankfähig;ref:12690;1: Umlaufvermögenskonten;;0
+SKR42;;12700;Forderungen aus Lieferungen und Leistungen gegen verbundene Unternehmen;ref:12700;1: Umlaufvermögenskonten;;0
+SKR42;;12800;Forderungen gegen Unternehmen, mit denen ein Beteiligungsverhältnis besteht;ref:12800;1: Umlaufvermögenskonten;;0
+SKR42;;12860;Besitzwechsel gegen Unternehmen, mit denen ein Beteiligungsverhältnis besteht;ref:12860;1: Umlaufvermögenskonten;;0
+SKR42;;12890;Besitzwechsel gegen Unternehmen, mit denen ein Beteiligungsverhältnis besteht, bundesbankfähig;ref:12890;1: Umlaufvermögenskonten;;0
+SKR42;;12900;Forderungen aus Lieferungen und Leistungen gegen Unternehmen, mit denen ein Beteiligungsverhältnis besteht;ref:12900;1: Umlaufvermögenskonten;;0
+SKR42;;13000;Sonstige Vermögensgegenstände;ref:13000;1: Umlaufvermögenskonten;;0
+SKR42;;13100;Forderungen gegen Vorstandsmitglieder und Geschäftsführer;ref:13100;1: Umlaufvermögenskonten;;0
+SKR42;;13200;Forderungen gegen Aufsichtsratsund Beiratsmitglieder;ref:13200;1: Umlaufvermögenskonten;;0
+SKR42;;13400;Forderungen gegen Personal aus Lohn- und Gehaltsabrechnung;ref:13400;1: Umlaufvermögenskonten;;0
+SKR42;;13500;Kautionen;ref:13500;1: Umlaufvermögenskonten;;0
+SKR42;;13600;Darlehen;ref:13600;1: Umlaufvermögenskonten;;0
+SKR42;;13650;Forderungen aus Gewerbesteuerüberzahlungen;ref:13650;1: Umlaufvermögenskonten;;0
+SKR42;;13660;Körperschaftsteuerrückforderung;ref:13660;1: Umlaufvermögenskonten;;0
+SKR42;;13670;Forderungen an das Finanzamt aus abgeführtem Bauabzugsbetrag;ref:13670;1: Umlaufvermögenskonten;;0
+SKR42;;13680;Forderungen gegenüber Bundesagentur für Arbeit;ref:13680;1: Umlaufvermögenskonten;;0
+SKR42;;13690;Forderungen gegenüber Krankenkassen aus Aufwendungsausgleichsgesetz;ref:13690;1: Umlaufvermögenskonten;;0
+SKR42;;13700;Durchlaufende Posten;ref:13700;1: Umlaufvermögenskonten;;0
+SKR42;;13720;Geldtransit;ref:13720;1: Umlaufvermögenskonten;;0
+SKR42;;13740;Fremdgeld;ref:13740;1: Umlaufvermögenskonten;;0
+SKR42;;13750;Agenturwarenabrechnung;ref:13750;1: Umlaufvermögenskonten;;0
+SKR42;;13900;GmbH-Anteile zum kurzfristigen Verbleib;ref:13900;1: Umlaufvermögenskonten;;0
+SKR42;;14000;Abziehbare Vorsteuer;ref:14000;1: Umlaufvermögenskonten;;0
+SKR42;;14010;Abziehbare Vorsteuer 7 %;ref:14010;1: Umlaufvermögenskonten;;0
+SKR42;;14060;Abziehbare Vorsteuer 19 %;ref:14060;1: Umlaufvermögenskonten;;0
+SKR42;;14100;Abziehbare Vorsteuer nach § 13b UStG;ref:14100;1: Umlaufvermögenskonten;;0
+SKR42;;14160;Abziehbare Vorsteuer nach § 13b UStG 19 %;ref:14160;1: Umlaufvermögenskonten;;0
+SKR42;;14200;Abziehbare Vorsteuer aus innergemeinschaftlichem Erwerb;ref:14200;1: Umlaufvermögenskonten;;0
+SKR42;;14260;Abziehbare Vorsteuer aus innergemeinschaftlichem Erwerb 19 %;ref:14260;1: Umlaufvermögenskonten;;0
+SKR42;;14290;Abziehbare Vorsteuer aus innergemeinschaftlichem Erwerb von Neufahrzeugen von Lieferanten ohne Umsatzsteuer-Identifikationsnummer;ref:14290;1: Umlaufvermögenskonten;;0
+SKR42;;14300;Aufzuteilende Vorsteuer;ref:14300;1: Umlaufvermögenskonten;;0
+SKR42;;14310;Aufzuteilende Vorsteuer 7 %;ref:14310;1: Umlaufvermögenskonten;;0
+SKR42;;14360;Aufzuteilende Vorsteuer 19 %;ref:14360;1: Umlaufvermögenskonten;;0
+SKR42;;14400;Aufzuteilende Vorsteuer nach §§ 13a und 13b UStG;ref:14400;1: Umlaufvermögenskonten;;0
+SKR42;;12210;Forderungen aus Lieferungen und Leistungen ohne Kontokorrent - Restlaufzeit bis 1 Jahr;ref:12210;1: Umlaufvermögenskonten;;0
+SKR42;;12300;Wechsel aus Lieferungen und Leistungen;ref:12300;1: Umlaufvermögenskonten;;0
+SKR42;;12350;Wechsel aus Lieferungen und Leistungen, bundesbankfähig;ref:12350;1: Umlaufvermögenskonten;;0
+SKR42;;12400;Zweifelhafte Forderungen;ref:12400;1: Umlaufvermögenskonten;;0
+SKR42;;12590;Gegenkonto 12210 - 12299, 12400 - 12459, 12700 - 12759, 12900 - 12979 bei Aufteilung Debitorenkonto;ref:12590;1: Umlaufvermögenskonten;;0
+SKR42;;12600;Forderungen gegen verbundene Unternehmen;ref:12600;1: Umlaufvermögenskonten;;0
+SKR42;;12660;Besitzwechsel gegen verbundene Unternehmen;ref:12660;1: Umlaufvermögenskonten;;0
+SKR42;;12690;Besitzwechsel gegen verbundene Unternehmen, bundesbankfähig;ref:12690;1: Umlaufvermögenskonten;;0
+SKR42;;12700;Forderungen aus Lieferungen und Leistungen gegen verbundene Unternehmen;ref:12700;1: Umlaufvermögenskonten;;0
+SKR42;;12800;Forderungen gegen Unternehmen, mit denen ein Beteiligungsverhältnis besteht;ref:12800;1: Umlaufvermögenskonten;;0
+SKR42;;12860;Besitzwechsel gegen Unternehmen, mit denen ein Beteiligungsverhältnis besteht;ref:12860;1: Umlaufvermögenskonten;;0
+SKR42;;12890;Besitzwechsel gegen Unternehmen, mit denen ein Beteiligungsverhältnis besteht, bundesbankfähig;ref:12890;1: Umlaufvermögenskonten;;0
+SKR42;;12900;Forderungen aus Lieferungen und Leistungen gegen Unternehmen, mit denen ein Beteiligungsverhältnis besteht;ref:12900;1: Umlaufvermögenskonten;;0
+SKR42;;13000;Sonstige Vermögensgegenstände;ref:13000;1: Umlaufvermögenskonten;;0
+SKR42;;13100;Forderungen gegen Vorstandsmitglieder und Geschäftsführer;ref:13100;1: Umlaufvermögenskonten;;0
+SKR42;;13200;Forderungen gegen Aufsichtsratsund Beiratsmitglieder;ref:13200;1: Umlaufvermögenskonten;;0
+SKR42;;13400;Forderungen gegen Personal aus Lohn- und Gehaltsabrechnung;ref:13400;1: Umlaufvermögenskonten;;0
+SKR42;;13500;Kautionen;ref:13500;1: Umlaufvermögenskonten;;0
+SKR42;;13600;Darlehen;ref:13600;1: Umlaufvermögenskonten;;0
+SKR42;;13650;Forderungen aus Gewerbesteuerüberzahlungen;ref:13650;1: Umlaufvermögenskonten;;0
+SKR42;;13660;Körperschaftsteuerrückforderung;ref:13660;1: Umlaufvermögenskonten;;0
+SKR42;;13670;Forderungen an das Finanzamt aus abgeführtem Bauabzugsbetrag;ref:13670;1: Umlaufvermögenskonten;;0
+SKR42;;13680;Forderungen gegenüber Bundesagentur für Arbeit;ref:13680;1: Umlaufvermögenskonten;;0
+SKR42;;13690;Forderungen gegenüber Krankenkassen aus Aufwendungsausgleichsgesetz;ref:13690;1: Umlaufvermögenskonten;;0
+SKR42;;13700;Durchlaufende Posten;ref:13700;1: Umlaufvermögenskonten;;0
+SKR42;;13720;Geldtransit;ref:13720;1: Umlaufvermögenskonten;;0
+SKR42;;13740;Fremdgeld;ref:13740;1: Umlaufvermögenskonten;;0
+SKR42;;13750;Agenturwarenabrechnung;ref:13750;1: Umlaufvermögenskonten;;0
+SKR42;;13900;GmbH-Anteile zum kurzfristigen Verbleib;ref:13900;1: Umlaufvermögenskonten;;0
+SKR42;;14000;Abziehbare Vorsteuer;ref:14000;1: Umlaufvermögenskonten;;0
+SKR42;;14010;Abziehbare Vorsteuer 7 %;ref:14010;1: Umlaufvermögenskonten;;0
+SKR42;;14060;Abziehbare Vorsteuer 19 %;ref:14060;1: Umlaufvermögenskonten;;0
+SKR42;;14100;Abziehbare Vorsteuer nach § 13b UStG;ref:14100;1: Umlaufvermögenskonten;;0
+SKR42;;14160;Abziehbare Vorsteuer nach § 13b UStG 19 %;ref:14160;1: Umlaufvermögenskonten;;0
+SKR42;;14200;Abziehbare Vorsteuer aus innergemeinschaftlichem Erwerb;ref:14200;1: Umlaufvermögenskonten;;0
+SKR42;;14260;Abziehbare Vorsteuer aus innergemeinschaftlichem Erwerb 19 %;ref:14260;1: Umlaufvermögenskonten;;0
+SKR42;;14290;Abziehbare Vorsteuer aus innergemeinschaftlichem Erwerb von Neufahrzeugen von Lieferanten ohne Umsatzsteuer-Identifikationsnummer;ref:14290;1: Umlaufvermögenskonten;;0
+SKR42;;14300;Aufzuteilende Vorsteuer;ref:14300;1: Umlaufvermögenskonten;;0
+SKR42;;14310;Aufzuteilende Vorsteuer 7 %;ref:14310;1: Umlaufvermögenskonten;;0
+SKR42;;14360;Aufzuteilende Vorsteuer 19 %;ref:14360;1: Umlaufvermögenskonten;;0
+SKR42;;14400;Aufzuteilende Vorsteuer nach §§ 13a und 13b UStG;ref:14400;1: Umlaufvermögenskonten;;0
+SKR42;;14460;Aufzuteilende Vorsteuer nach §§ 13a und 13b UStG 19 %;ref:14460;1: Umlaufvermögenskonten;;0
+SKR42;;14500;Aufzuteilende Vorsteuer aus innergemeinschaftlichem Erwerb;ref:14500;1: Umlaufvermögenskonten;;0
+SKR42;;14560;Aufzuteilende Vorsteuer aus innergemeinschaftlichem Erwerb 19 %;ref:14560;1: Umlaufvermögenskonten;;0
+SKR42;;14590;Vorsteuer aus Erwerb als letzter Abnehmer innerhalb eines Dreiecksgeschäfts;ref:14590;1: Umlaufvermögenskonten;;0
+SKR42;;14610;Forderungen aus UmsatzsteuerVorauszahlungen;ref:14610;1: Umlaufvermögenskonten;;0
+SKR42;;14620;Umsatzsteuerforderungen Vorjahr;ref:14620;1: Umlaufvermögenskonten;;0
+SKR42;;14630;Umsatzsteuerforderungen frühere Jahre;ref:14630;1: Umlaufvermögenskonten;;0
+SKR42;;14640;Nachträglich abziehbare Vorsteuer nach § 15a Abs. 2 UStG;ref:14640;1: Umlaufvermögenskonten;;0
+SKR42;;14690;Steuererstattungsansprüche gegenüber anderen Ländern;ref:14690;1: Umlaufvermögenskonten;;0
+SKR42;;14700;Nachträglich abziehbare Vorsteuer nach § 15a Abs. 1 UStG, bewegliche Wirtschaftsgüter;ref:14700;1: Umlaufvermögenskonten;;0
+SKR42;;14710;Nachträglich abziehbare Vorsteuer nach § 15a Abs. 1 UStG, unbewegliche Wirtschaftsgüter;ref:14710;1: Umlaufvermögenskonten;;0
+SKR42;;14720;Zurückzuzahlende Vorsteuer nach § 15a Abs. 1 UStG, bewegliche Wirtschaftsgüter;ref:14720;1: Umlaufvermögenskonten;;0
+SKR42;;14730;Zurückzuzahlende Vorsteuer nach § 15a Abs. 1 UStG, unbewegliche Wirtschaftsgüter;ref:14730;1: Umlaufvermögenskonten;;0
+SKR42;;14740;Zurückzuzahlende Vorsteuer nach § 15a Abs. 2 UStG;ref:14740;1: Umlaufvermögenskonten;;0
+SKR42;;14800;Abziehbare Vorsteuer aus der Auslagerung von Gegenständen aus einem Umsatzsteuerlager;ref:14800;1: Umlaufvermögenskonten;;0
+SKR42;;14810;Entstandene Einfuhrumsatzsteuer;ref:14810;1: Umlaufvermögenskonten;;0
+SKR42;;14820;Vorsteuer in Folgeperiode/im Folgejahr abziehbar;ref:14820;1: Umlaufvermögenskonten;;0
+SKR42;;14830;Gegenkonto Vorsteuer § 4 Abs. 3 EStG;ref:14830;1: Umlaufvermögenskonten;;0
+SKR42;;14840;Auflösung Vorsteuer aus Vorjahr § 4 Abs. 3 EStG;ref:14840;1: Umlaufvermögenskonten;;0
+SKR42;;14850;Vorsteuer aus Investitionen § 4 Abs. 3 EStG;ref:14850;1: Umlaufvermögenskonten;;0
+SKR42;;14860;Gegenkonto für Vorsteuer nach Durchschnittssatz nach § 23a UStG für § 4 Abs. 3 EStG;ref:14860;1: Umlaufvermögenskonten;;0
+SKR42;;14870;Vorsteuer nach Durchschnittssatz nach § 23a UStG;ref:14870;1: Umlaufvermögenskonten;;0
+SKR42;;14930;Verrechnungskonto Gewinnermittlung § 4 Abs. 3 EStG, nicht ergebniswirksam;ref:14930;1: Umlaufvermögenskonten;;0
+SKR42;;14940;Wirtschaftsgüter des Umlaufvermögens nach § 4 Abs. 3 S. 4 EStG;ref:14940;1: Umlaufvermögenskonten;;0
+SKR42;;14950;Verrechnungskonto Ist-Versteuerung;ref:14950;1: Umlaufvermögenskonten;;0
+SKR42;;14960;Neutralisierung ertragswirksamer Sachverhalte für § 4 Abs. 3 EStG;ref:14960;1: Umlaufvermögenskonten;;0
+SKR42;;14970;Verrechnungskonto erhaltene Anzahlungen bei Buchung über Debitorenkonto;ref:14970;1: Umlaufvermögenskonten;;0
+SKR42;;14980;Überleitungskonto Kostenstellen;ref:14980;1: Umlaufvermögenskonten;;0
+SKR42;;15000;Anteile an verbundenen Unternehmen (Umlaufvermögen);ref:15000;1: Umlaufvermögenskonten;;0
+SKR42;;15100;Sonstige Wertpapiere;ref:15100;1: Umlaufvermögenskonten;;0
+SKR42;;15200;Finanzwechsel;ref:15200;1: Umlaufvermögenskonten;;0
+SKR42;;15500;Schecks;ref:15500;1: Umlaufvermögenskonten;;0
+SKR42;;16000;Kasse;ref:16000;1: Umlaufvermögenskonten;;0
+SKR42;;16100;Nebenkasse 1;ref:16100;1: Umlaufvermögenskonten;;0
+SKR42;;16200;Nebenkasse 2;ref:16200;1: Umlaufvermögenskonten;;0
+SKR42;;17000;Bank (Postbank);ref:17000;1: Umlaufvermögenskonten;;0
+SKR42;;17100;Bank (Postbank 1);ref:17100;1: Umlaufvermögenskonten;;0
+SKR42;;17200;Bank (Postbank 2);ref:17200;1: Umlaufvermögenskonten;;0
+SKR42;;17300;Bank (Postbank 3);ref:17300;1: Umlaufvermögenskonten;;0
+SKR42;;17800;LZB-Guthaben;ref:17800;1: Umlaufvermögenskonten;;0
+SKR42;;17900;Bundesbankguthaben;ref:17900;1: Umlaufvermögenskonten;;0
+SKR42;;18000;Bank;ref:18000;1: Umlaufvermögenskonten;;0
+SKR42;;18100;Bank 1;ref:18100;1: Umlaufvermögenskonten;;0
+SKR42;;18200;Bank 2;ref:18200;1: Umlaufvermögenskonten;;0
+SKR42;;18300;Bank 3;ref:18300;1: Umlaufvermögenskonten;;0
+SKR42;;18400;Bank 4;ref:18400;1: Umlaufvermögenskonten;;0
+SKR42;;18500;Bank 5;ref:18500;1: Umlaufvermögenskonten;;0
+SKR42;;18900;Finanzmittelanlagen im Rahmen der kurzfristigen Finanzdisposition (nicht im Finanzmittelfonds enthalten);ref:18900;1: Umlaufvermögenskonten;;0
+SKR42;;18950;Verbindlichkeiten gegenüber Kreditinstituten (nicht im Finanzmittelfonds enthalten);ref:18950;1: Umlaufvermögenskonten;;0
+SKR42;;19000;Aktive Rechnungsabgrenzung;ref:19000;1: Umlaufvermögenskonten;;0
+SKR42;;19400;Damnum/Disagio;ref:19400;1: Umlaufvermögenskonten;;0
+SKR42;;20000;Gebundene Rücklagen nach § 62 Abs. 1 Nr. 1 AO;ref:20000;2: Eigenkapitalkonten/Fremdkapitalkonten;;0
+SKR42;;20800;Wiederbeschaffungsrücklage;ref:20800;2: Eigenkapitalkonten/Fremdkapitalkonten;;0
+SKR42;;20900;Betriebsmittelrücklage;ref:20900;2: Eigenkapitalkonten/Fremdkapitalkonten;;0
+SKR42;;21000;Freie Rücklagen nach § 62 Abs. 1 Nr. 3 AO;ref:21000;2: Eigenkapitalkonten/Fremdkapitalkonten;;0
+SKR42;;22000;Rücklage aus sonstigen zeitnah zu verwendenden Mitteln;ref:22000;2: Eigenkapitalkonten/Fremdkapitalkonten;;0
+SKR42;;22500;Rücklagen zum Erwerb von Gesellschaftsrechten nach § 62 Abs. 1 Nr. 4 AO;ref:22500;2: Eigenkapitalkonten/Fremdkapitalkonten;;0
+SKR42;;23000;Nutzungsgebundenes Kapital (Eigenkapitalausweis);ref:23000;2: Eigenkapitalkonten/Fremdkapitalkonten;;0
+SKR42;;24000;Ergebnisse Vermögensumschichtung;ref:24000;2: Eigenkapitalkonten/Fremdkapitalkonten;;0
+SKR42;;25000;Vereinskapital / sonstige nicht zeitnah zu verwendende Mittel nach § 62 Abs. 3 AO;ref:25000;2: Eigenkapitalkonten/Fremdkapitalkonten;;0
+SKR42;;26000;Errichtungskapital;ref:26000;2: Eigenkapitalkonten/Fremdkapitalkonten;;0
+SKR42;;26500;Zustiftungskapital;ref:26500;2: Eigenkapitalkonten/Fremdkapitalkonten;;0
+SKR42;;27000;Zuführung aus Ergebnisrücklagen;ref:27000;2: Eigenkapitalkonten/Fremdkapitalkonten;;0
+SKR42;;27500;Kapitalerhaltungsrücklage;ref:27500;2: Eigenkapitalkonten/Fremdkapitalkonten;;0
+SKR42;;28000;Ansparrücklage nach § 62 Abs. 4 AO;ref:28000;2: Eigenkapitalkonten/Fremdkapitalkonten;;0
+SKR42;;28500;Sonstige Ergebnisrücklagen;ref:28500;2: Eigenkapitalkonten/Fremdkapitalkonten;;0
+SKR42;;29200;Kapitalrücklage;ref:29200;2: Eigenkapitalkonten/Fremdkapitalkonten;;0
+SKR42;;29700;Gewinnvortrag / Ergebnisvortrag vor Verwendung;ref:29700;2: Eigenkapitalkonten/Fremdkapitalkonten;;0
+SKR42;;29780;Verlustvortrag / Ergebnisvortrag vor Verwendung;ref:29780;2: Eigenkapitalkonten/Fremdkapitalkonten;;0
+SKR42;;29810;Steuerfreie Rücklagen nach § 6b EStG;ref:29810;2: Eigenkapitalkonten/Fremdkapitalkonten;;0
+SKR42;;29820;Rücklage für Ersatzbeschaffung;ref:29820;2: Eigenkapitalkonten/Fremdkapitalkonten;;0
+SKR42;;29830;Rücklage für Zuschüsse;ref:29830;2: Eigenkapitalkonten/Fremdkapitalkonten;;0
+SKR42;;29850;Ausgleichsposten bei Entnahmen § 4g EStG;ref:29850;2: Eigenkapitalkonten/Fremdkapitalkonten;;0
+SKR42;;29880;Sonderposten für Zuschüsse;ref:29880;2: Eigenkapitalkonten/Fremdkapitalkonten;;0
+SKR42;;29950;Nutzungsgebundenes Kapital;ref:29950;2: Eigenkapitalkonten/Fremdkapitalkonten;;0
+SKR42;;29960;Längerfristig gebundene Spenden;ref:29960;2: Eigenkapitalkonten/Fremdkapitalkonten;;0
+SKR42;;29970;Noch nicht satzungsgemäß verwendete Spenden;ref:29970;2: Eigenkapitalkonten/Fremdkapitalkonten;;0
+SKR42;;31000;Anleihen, nicht konvertibel;ref:31000;3: Fremdkapitalkonten;;0
+SKR42;;31200;Anleihen, konvertibel;ref:31200;3: Fremdkapitalkonten;;0
+SKR42;;31400;Sonstige Schuld- und Finanztitel;ref:31400;3: Fremdkapitalkonten;;0
+SKR42;;31410;Bewilligungen;ref:31410;3: Fremdkapitalkonten;;0
+SKR42;;31420;Rückgängig gemachte Bewilligungen;ref:31420;3: Fremdkapitalkonten;;0
+SKR42;;31500;Verbindlichkeiten gegenüber Kreditinstituten;ref:31500;3: Fremdkapitalkonten;;0
+SKR42;;31800;Verbindlichkeiten gegenüber Kreditinstituten aus Teilzahlungsverträgen;ref:31800;3: Fremdkapitalkonten;;0
+SKR42;;32100;Verbindlichkeiten gegenüber Kreditinstituten, vor Restlaufzeitdifferenzierung;ref:32100;3: Fremdkapitalkonten;;0
+SKR42;;32490;Gegenkonto 31500 - 31839 bei Aufteilung der Konten 32100 - 32489;ref:32490;3: Fremdkapitalkonten;;0
+SKR42;;32500;Erhaltene Anzahlungen auf Bestellungen (Verbindlichkeiten);ref:32500;3: Fremdkapitalkonten;;0
+SKR42;;32600;Erhaltene, versteuerte Anzahlungen 7 % USt (Verbindlichkeiten);ref:32600;3: Fremdkapitalkonten;;0
+SKR42;;32610;Erhaltene, versteuerte Anzahlungen 5 % USt (Verbindlichkeiten);ref:32610;3: Fremdkapitalkonten;;0
+SKR42;;32640;Erhaltene, versteuerte Anzahlungen 0 % USt (Verbindlichkeiten);ref:32640;3: Fremdkapitalkonten;;0
+SKR42;;32700;Erhaltene, versteuerte Anzahlungen 16 % USt (Verbindlichkeiten);ref:32700;3: Fremdkapitalkonten;;0
+SKR42;;32720;Erhaltene, versteuerte Anzahlungen 19 % USt (Verbindlichkeiten);ref:32720;3: Fremdkapitalkonten;;0
+SKR42;;32800;Erhaltene Anzahlungen - Nachsteuer;ref:32800;3: Fremdkapitalkonten;;0
+SKR42;;33000;Verbindlichkeiten aus Lieferungen und Leistungen;ref:33000;3: Fremdkapitalkonten;;0
+SKR42;;33050;Verbindlichkeiten aus Lieferungen und Leistungen zum allgemeinen Umsatzsteuersatz (EÜR);ref:33050;3: Fremdkapitalkonten;;0
+SKR42;;33060;Verbindlichkeiten aus Lieferungen und Leistungen zum ermäßigten Umsatzsteuersatz (EÜR);ref:33060;3: Fremdkapitalkonten;;0
+SKR42;;33070;Verbindlichkeiten aus Lieferungen und Leistungen ohne Vorsteuerabzug (EÜR);ref:33070;3: Fremdkapitalkonten;;0
+SKR42;;33090;Gegenkonto 33050 - 33079 bei Aufteilung der Verbindlichkeiten nach Steuersätzen (EÜR);ref:33090;3: Fremdkapitalkonten;;0
+SKR42;;33100;Verbindlichkeiten aus Lieferungen und Leistungen ohne Kontokorrent;ref:33100;3: Fremdkapitalkonten;;0
+SKR42;;33200;Verbindlichkeiten aus Lieferungen und Leistungen für Investitionen für § 4 Abs. 3 EStG;ref:33200;3: Fremdkapitalkonten;;0
+SKR42;;33310;Verbindlichkeiten aus Lieferungen und Leistungen ohne Kontokorrent - Restlaufzeit bis 1 Jahr;ref:33310;3: Fremdkapitalkonten;;0
+SKR42;;33490;Gegenkonto 33310 - 33339, 34200 - 34239, 34700 - 34739 bei Aufteilung Kreditorenkonto;ref:33490;3: Fremdkapitalkonten;;0
+SKR42;;33500;Wechselverbindlichkeiten;ref:33500;3: Fremdkapitalkonten;;0
+SKR42;;34000;Verbindlichkeiten gegenüber verbundenen Unternehmen;ref:34000;3: Fremdkapitalkonten;;0
+SKR42;;34200;Verbindlichkeiten aus Lieferungen und Leistungen gegenüber verbundenen Unternehmen;ref:34200;3: Fremdkapitalkonten;;0
+SKR42;;34500;Verbindlichkeiten gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht;ref:34500;3: Fremdkapitalkonten;;0
+SKR42;;34700;Verbindlichkeiten aus Lieferungen und Leistungen gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht;ref:34700;3: Fremdkapitalkonten;;0
+SKR42;;34900;Verbindlichkeiten für satzungsgemäße Leistungen;ref:34900;3: Fremdkapitalkonten;;0
+SKR42;;34910;Verbindlichkeiten aus erteilten Zusagen;ref:34910;3: Fremdkapitalkonten;;0
+SKR42;;34920;Verbindlichkeiten aus nicht zweckentsprechend verwendeten Mitteln;ref:34920;3: Fremdkapitalkonten;;0
+SKR42;;34930;Verbindlichkeiten aus bedingt rückzahlungspflichtigen Spenden;ref:34930;3: Fremdkapitalkonten;;0
+SKR42;;35000;Sonstige Verbindlichkeiten;ref:35000;3: Fremdkapitalkonten;;0
+SKR42;;35090;Sonstige Verbindlichkeiten nach § 11 Abs. 2 S. 2 EStG für § 4 Abs. 3 EStG;ref:35090;3: Fremdkapitalkonten;;0
+SKR42;;35400;Partiarische Darlehen;ref:35400;3: Fremdkapitalkonten;;0
+SKR42;;35500;Erhaltene Kautionen;ref:35500;3: Fremdkapitalkonten;;0
+SKR42;;35600;Darlehen;ref:35600;3: Fremdkapitalkonten;;0
+SKR42;;36000;Agenturwarenabrechnung;ref:36000;3: Fremdkapitalkonten;;0
+SKR42;;36100;Kreditkartenabrechnung;ref:36100;3: Fremdkapitalkonten;;0
+SKR42;;36120;Neutralisierung aufwandswirksamer Sachverhalte für § 4 Abs. 3 EStG;ref:36120;3: Fremdkapitalkonten;;0
+SKR42;;36130;Ergebnisneutrale Sachverhalte für § 4 Abs. 3 EStG;ref:36130;3: Fremdkapitalkonten;;0
+SKR42;;36950;Verrechnungskonto geleistete Anzahlungen bei Buchung über Kreditorenkonto;ref:36950;3: Fremdkapitalkonten;;0
+SKR42;;37200;Verbindlichkeiten aus Lohn und Gehalt;ref:37200;3: Fremdkapitalkonten;;0
+SKR42;;37250;Verbindlichkeiten für Einbehaltungen von Arbeitnehmern;ref:37250;3: Fremdkapitalkonten;;0
+SKR42;;37260;Verbindlichkeiten an das Finanzamt aus abzuführendem Bauabzugsbetrag;ref:37260;3: Fremdkapitalkonten;;0
+SKR42;;37300;Verbindlichkeiten aus Lohn- und Kirchensteuer;ref:37300;3: Fremdkapitalkonten;;0
+SKR42;;37400;Verbindlichkeiten im Rahmen der sozialen Sicherheit;ref:37400;3: Fremdkapitalkonten;;0
+SKR42;;37590;Voraussichtliche Beitragsschuld gegenüber den Sozialversicherungsträgern;ref:37590;3: Fremdkapitalkonten;;0
+SKR42;;37700;Verbindlichkeiten aus Vermögensbildung;ref:37700;3: Fremdkapitalkonten;;0
+SKR42;;37800;Verbindlichkeiten im Rahmen der sozialen Sicherheit für § 4 Abs. 3 EStG;ref:37800;3: Fremdkapitalkonten;;0
+SKR42;;37860;Ausgegebene Geschenkgutscheine;ref:37860;3: Fremdkapitalkonten;;0
+SKR42;;37900;Lohn- und Gehaltsverrechnungskonto;ref:37900;3: Fremdkapitalkonten;;0
+SKR42;;37910;Lohn- und Gehaltsverrechnung nach § 11 Abs. 2 S. 2 EStG für § 4 Abs. 3 EStG;ref:37910;3: Fremdkapitalkonten;;0
+SKR42;;38000;Umsatzsteuer;ref:38000;3: Fremdkapitalkonten;;0
+SKR42;;38010;Umsatzsteuer 7 %;ref:38010;3: Fremdkapitalkonten;;0
+SKR42;;38060;Umsatzsteuer 19 %;ref:38060;3: Fremdkapitalkonten;;0
+SKR42;;38100;Umsatzsteuer nach § 13b UStG;ref:38100;3: Fremdkapitalkonten;;0
+SKR42;;38160;Umsatzsteuer nach § 13b UStG 19 %;ref:38160;3: Fremdkapitalkonten;;0
+SKR42;;38200;Umsatzsteuer nicht fällig;ref:38200;3: Fremdkapitalkonten;;0
+SKR42;;38210;Umsatzsteuer nicht fällig 7 %;ref:38210;3: Fremdkapitalkonten;;0
+SKR42;;38260;Umsatzsteuer nicht fällig 19 %;ref:38260;3: Fremdkapitalkonten;;0
+SKR42;;38300;Umsatzsteuer nicht fällig aus im Inland steuerpflichtigen EU-Lieferungen;ref:38300;3: Fremdkapitalkonten;;0
+SKR42;;38360;Umsatzsteuer nicht fällig aus im Inland steuerpflichtigen EU-Lieferungen 19 %;ref:38360;3: Fremdkapitalkonten;;0
+SKR42;;38400;Umsatzsteuer-Vorauszahlungen;ref:38400;3: Fremdkapitalkonten;;0
+SKR42;;38410;Umsatzsteuer-Vorauszahlungen 1/11;ref:38410;3: Fremdkapitalkonten;;0
+SKR42;;38420;Umsatzsteuer laufendes Jahr;ref:38420;3: Fremdkapitalkonten;;0
+SKR42;;38430;Umsatzsteuer Vorjahr;ref:38430;3: Fremdkapitalkonten;;0
+SKR42;;38440;Umsatzsteuer frühere Jahre;ref:38440;3: Fremdkapitalkonten;;0
+SKR42;;38450;Umsatzsteuer in Folgeperiode fällig (§§ 13 Abs. 1 Nr. 6 und 13b Abs. 2 UStG);ref:38450;3: Fremdkapitalkonten;;0
+SKR42;;38500;Umsatzsteuer aus innergemeinschaftlichem Erwerb;ref:38500;3: Fremdkapitalkonten;;0
+SKR42;;38510;Umsatzsteuer aus innergemeinschaftlichem Erwerb ohne Vorsteuerabzug;ref:38510;3: Fremdkapitalkonten;;0
+SKR42;;38560;Umsatzsteuer aus innergemeinschaftlichem Erwerb 19 %;ref:38560;3: Fremdkapitalkonten;;0
+SKR42;;38570;Umsatzsteuer aus Erwerb als letzter Abnehmer innerhalb eines Dreiecksgeschäfts;ref:38570;3: Fremdkapitalkonten;;0
+SKR42;;38580;Umsatzsteuer aus innergemeinschaftlichem Erwerb von Neufahrzeugen von Lieferanten ohne Umsatzsteuer-Identifikationsnummer;ref:38580;3: Fremdkapitalkonten;;0
+SKR42;;38600;Umsatzsteuer aus der Auslagerung von Gegenständen aus einem Umsatzsteuerlager;ref:38600;3: Fremdkapitalkonten;;0
+SKR42;;38610;Umsatzsteuer aus im Inland steuerpflichtigen EU-Lieferungen;ref:38610;3: Fremdkapitalkonten;;0
+SKR42;;38660;Umsatzsteuer aus im Inland steuerpflichtigen EU-Lieferungen 19 %;ref:38660;3: Fremdkapitalkonten;;0
+SKR42;;38700;Nachsteuer, UStVA Kz. 65;ref:38700;3: Fremdkapitalkonten;;0
+SKR42;;38710;Einfuhrumsatzsteuer aufgeschoben bis...;ref:38710;3: Fremdkapitalkonten;;0
+SKR42;;38720;In Rechnung unrichtig oder unberechtigt ausgewiesene Steuerbeträge, UStVA Kz. 69;ref:38720;3: Fremdkapitalkonten;;0
+SKR42;;38800;Umsatzsteuer aus im anderen EULand steuerpflichtigen Lieferungen;ref:38800;3: Fremdkapitalkonten;;0
+SKR42;;38810;Umsatzsteuer aus im anderen EULand steuerpflichtigen sonstigen Leistungen/Werklieferungen;ref:38810;3: Fremdkapitalkonten;;0
+SKR42;;38820;Umsatzsteuer aus im anderen EULand steuerpflichtigen elektronischen Dienstleistungen;ref:38820;3: Fremdkapitalkonten;;0
+SKR42;;38830;Steuerzahlungen an andere Länder;ref:38830;3: Fremdkapitalkonten;;0
+SKR42;;38840;Steuerzahlungen aus im anderen EU-Land steuerpflichtigen Leistungen;ref:38840;3: Fremdkapitalkonten;;0
+SKR42;;38850;Umsatzsteuer aus im Inland steuerpflichtigen EU-Lieferungen, nur OSS;ref:38850;3: Fremdkapitalkonten;;0
+SKR42;;38990;Verbindlichkeiten aus Umsatzsteuer-Vorauszahlungen;ref:38990;3: Fremdkapitalkonten;;0
+SKR42;;39000;Passive Rechnungsabgrenzung;ref:39000;3: Fremdkapitalkonten;;0
+SKR42;;39500;Abgrenzung unterjährig pauschal gebuchter Abschreibungen für BWA;ref:39500;3: Fremdkapitalkonten;;0
+SKR42;;40000;Echte Mitgliedsbeiträge;ref:40000;4: Einnahmen;;0
+SKR42;;40100;Aufnahmegebühren;ref:40100;4: Einnahmen;;0
+SKR42;;40200;Einnahmen aus Mitgliederumlagen;ref:40200;4: Einnahmen;;0
+SKR42;;40300;Einnahmen aus Schenkungen;ref:40300;4: Einnahmen;;0
+SKR42;;40310;Einnahmen aus Erbschaften;ref:40310;4: Einnahmen;;0
+SKR42;;40320;Einnahmen aus Vermächtnissen;ref:40320;4: Einnahmen;;0
+SKR42;;40330;Übrige ertragsteuerneutrale Einnahmen;ref:40330;4: Einnahmen;;0
+SKR42;;40400;Erträge aus Spenden / Zuwendungen;ref:40400;4: Einnahmen;;0
+SKR42;;40450;Geldzuwendungen gegen Zuwendungsbestätigung;ref:40450;4: Einnahmen;;0
+SKR42;;40500;Geldzuwendungen ohne Zuwendungsbestätigung;ref:40500;4: Einnahmen;;0
+SKR42;;40550;Sachzuwendungen gegen Zuwendungsbestätigung;ref:40550;4: Einnahmen;;0
+SKR42;;40600;Sachzuwendungen ohne Zuwendungsbestätigung;ref:40600;4: Einnahmen;;0
+SKR42;;40650;Aufwandszuwendungen gegen Zuwendungsbestätigung;ref:40650;4: Einnahmen;;0
+SKR42;;40700;Aufwandszuwendungen ohne Zuwendungsbestätigung;ref:40700;4: Einnahmen;;0
+SKR42;;40750;Ertrag aus Spendenverbrauch;ref:40750;4: Einnahmen;;0
+SKR42;;40900;Umsatzerlöse (Zur freien Verfügung);ref:40900;4: Einnahmen;;0
+SKR42;;41000;Sonstige steuerfreie Umsätze Inland;ref:41000;4: Einnahmen;;0
+SKR42;;41010;Erlöse aus Eintrittsgeldern steuerfrei;ref:41010;4: Einnahmen;;0
+SKR42;;41030;Erlöse aus Teilnehmer- und Nutzungsgebühren steuerfrei;ref:41030;4: Einnahmen;;0
+SKR42;;41050;Erlöse aus Veranstaltungen steuerfrei;ref:41050;4: Einnahmen;;0
+SKR42;;41070;Erlöse aus Fortbildung/Unterricht steuerfrei;ref:41070;4: Einnahmen;;0
+SKR42;;41090;Erlöse aus Reisen steuerfrei;ref:41090;4: Einnahmen;;0
+SKR42;;41110;Erlöse aus Werbung steuerfrei;ref:41110;4: Einnahmen;;0
+SKR42;;41130;Erlöse aus Zuwendungen Dritter (Sponsoren) steuerfrei;ref:41130;4: Einnahmen;;0
+SKR42;;41200;Steuerfreie Umsätze nach § 4 Nr. 1a UStG;ref:41200;4: Einnahmen;;0
+SKR42;;41250;Steuerfreie Innergemeinschaftliche Lieferungen nach § 4 Nr. 1b UStG;ref:41250;4: Einnahmen;;0
+SKR42;;41270;Steuerfreie Umsätze § 4 Nr. 8 ff. UStG;ref:41270;4: Einnahmen;;0
+SKR42;;41280;Steuerfreie Umsätze nach § 4 Nr. 12 UStG (Vermietung und Verpachtung);ref:41280;4: Einnahmen;;0
+SKR42;;41300;Lieferungen des ersten Abnehmers bei innergemeinschaftlichen Dreiecksgeschäften § 25b Abs. 2 UStG;ref:41300;4: Einnahmen;;0
+SKR42;;41350;Steuerfreie innergemeinschaftliche Lieferungen von Neufahrzeugen an Abnehmer ohne UmsatzsteuerIdentifikationsnummer;ref:41350;4: Einnahmen;;0
+SKR42;;41360;Umsatzerlöse nach §§ 25 und 25a UStG 19 % USt;ref:41360;4: Einnahmen;;0
+SKR42;;41380;Umsatzerlöse nach §§ 25 und 25a UStG ohne USt;ref:41380;4: Einnahmen;;0
+SKR42;;41390;Umsatzerlöse aus Reiseleistungen § 25 Abs. 2 UStG, steuerfrei;ref:41390;4: Einnahmen;;0
+SKR42;;41400;Steuerfreie Umsätze Offshore etc.;ref:41400;4: Einnahmen;;0
+SKR42;;41500;Sonstige steuerfreie Umsätze (z. B. § 4 Nr. 2 bis 7 UStG);ref:41500;4: Einnahmen;;0
+SKR42;;41600;Steuerfreie Umsätze ohne Vorsteuerabzug zum Gesamtumsatz gehörend, § 4 UStG;ref:41600;4: Einnahmen;;0
+SKR42;;41650;Steuerfreie Umsätze ohne Vorsteuerabzug zum Gesamtumsatz gehörend;ref:41650;4: Einnahmen;;0
+SKR42;;41800;Erlöse, die mit den Durchschnittssätzen des § 24 UStG versteuert werden;ref:41800;4: Einnahmen;;0
+SKR42;;41850;Erlöse als Kleinunternehmer nach § 19 Abs. 1 UStG;ref:41850;4: Einnahmen;;0
+SKR42;;42000;Erlöse;ref:42000;4: Einnahmen;;0
+SKR42;;42010;Erlöse aus Eintrittsgeldern;ref:42010;4: Einnahmen;;0
+SKR42;;42030;Erlöse aus Teilnehmer-/Nutzungsgebühren;ref:42030;4: Einnahmen;;0
+SKR42;;42050;Erlöse aus Veranstaltungen;ref:42050;4: Einnahmen;;0
+SKR42;;42070;Erlöse aus Fortbildung/Unterricht;ref:42070;4: Einnahmen;;0
+SKR42;;42090;Erlöse aus Reisen;ref:42090;4: Einnahmen;;0
+SKR42;;42110;Erlöse aus Werbung;ref:42110;4: Einnahmen;;0
+SKR42;;42130;Erlöse aus Zuwendungen Dritter (Sponsoren);ref:42130;4: Einnahmen;;0
+SKR42;;42900;Erlöse 0 % USt;ref:42900;4: Einnahmen;;0
+SKR42;;43000;Erlöse 7 % USt;ref:43000;4: Einnahmen;;0
+SKR42;;43010;Erlöse aus Eintrittsgeldern 7 % USt;ref:43010;4: Einnahmen;;0
+SKR42;;43030;Erlöse aus Teilnehmer- und Nutzungsgebühren 7 % USt;ref:43030;4: Einnahmen;;0
+SKR42;;43050;Erlöse aus Veranstaltungen 7 % USt;ref:43050;4: Einnahmen;;0
+SKR42;;43070;Erlöse aus Fortbildung/Unterricht 7 % USt;ref:43070;4: Einnahmen;;0
+SKR42;;43090;Erlöse aus Reisen 7 % USt;ref:43090;4: Einnahmen;;0
+SKR42;;43110;Erlöse aus Werbung 7 % USt (übertragene Weberechte);ref:43110;4: Einnahmen;;0
+SKR42;;43180;Erlöse aus im Inland steuerpflichtigen EU-Lieferungen 7 % USt;ref:43180;4: Einnahmen;;0
+SKR42;;43190;Erlöse aus im Inland steuerpflichtigen EU-Lieferungen 19 % USt;ref:43190;4: Einnahmen;;0
+SKR42;;43200;Erlöse aus im anderen EU-Land steuerpflichtigen Lieferungen, im Inland nicht steuerbar;ref:43200;4: Einnahmen;;0
+SKR42;;43310;Erlöse aus im anderen EU-Land steuerpflichtigen elektronischen Dienstleistungen 5);ref:43310;4: Einnahmen;;0
+SKR42;;43340;Erlöse 7 % USt;ref:43340;4: Einnahmen;;0
+SKR42;;43350;Erlöse aus Lieferungen von Mobilfunkgeräten, Tablet-Computern, Spielekonsolen und integrierten Schaltkreisen, für die der Leistungsempfänger die Umsatzsteuer nach § 13b UStG schuldet;ref:43350;4: Einnahmen;;0
+SKR42;;43360;Erlöse aus im anderen EU-Land steuerpflichtigen sonstigen Leistungen, für die der Leistungsempfänger die Umsatzsteuer schuldet;ref:43360;4: Einnahmen;;0
+SKR42;;43370;Erlöse aus Leistungen, für die der Leistungsempfänger die Umsatzsteuer nach § 13b UStG schuldet;ref:43370;4: Einnahmen;;0
+SKR42;;43380;Erlöse aus im Drittland steuerbaren Leistungen, im Inland nicht steuerbare Umsätze;ref:43380;4: Einnahmen;;0
+SKR42;;43390;Erlöse aus im anderen EU-Land steuerbaren Leistungen, im Inland nicht steuerbare Umsätze;ref:43390;4: Einnahmen;;0
+SKR42;;43400;Erlöse 16 % USt;ref:43400;4: Einnahmen;;0
+SKR42;;44000;Erlöse 19 % USt;ref:44000;4: Einnahmen;;0
+SKR42;;44010;Erlöse aus Eintrittsgeldern 19 % USt;ref:44010;4: Einnahmen;;0
+SKR42;;44030;Erlöse aus Teilnehmer-/Nutzungsgebühren 19 % USt;ref:44030;4: Einnahmen;;0
+SKR42;;44050;Erlöse aus Veranstaltungen 19 % USt;ref:44050;4: Einnahmen;;0
+SKR42;;44070;Erlöse aus Fortbildung/Unterricht 19 % USt;ref:44070;4: Einnahmen;;0
+SKR42;;44090;Erlöse aus Reisen 19 % USt;ref:44090;4: Einnahmen;;0
+SKR42;;44110;Erlöse aus Werbung 19 % USt (in Eigenregie);ref:44110;4: Einnahmen;;0
+SKR42;;44130;Erlöse aus Zuwendungen Dritter (Sponsoren) 19 % USt;ref:44130;4: Einnahmen;;0
+SKR42;;44190;Erlöse 19 % USt;ref:44190;4: Einnahmen;;0
+SKR42;;44480;Erlöse aus Geldspielautomaten 19 % USt;ref:44480;4: Einnahmen;;0
+SKR42;;44490;Erlöse aus im Inland steuerpflichtigen elektronischen Dienstleistungen 19 % USt;ref:44490;4: Einnahmen;;0
+SKR42;;45100;Erlöse Abfallverwertung;ref:45100;4: Einnahmen;;0
+SKR42;;45200;Erlöse Leergut;ref:45200;4: Einnahmen;;0
+SKR42;;45600;Provisionsumsätze;ref:45600;4: Einnahmen;;0
+SKR42;;45640;Provisionsumsätze, steuerfrei § 4 Nr. 8 ff. UStG;ref:45640;4: Einnahmen;;0
+SKR42;;45650;Provisionsumsätze, steuerfrei § 4 Nr. 5 UStG;ref:45650;4: Einnahmen;;0
+SKR42;;45660;Provisionsumsätze 7 % USt;ref:45660;4: Einnahmen;;0
+SKR42;;45690;Provisionsumsätze 19 % USt;ref:45690;4: Einnahmen;;0
+SKR42;;45700;Sonstige Erträge aus Provisionen, Lizenzen und Patenten;ref:45700;4: Einnahmen;;0
+SKR42;;45740;Sonstige Erträge aus Provisionen, Lizenzen und Patenten, steuerfrei § 4 Nr. 8 ff. UStG;ref:45740;4: Einnahmen;;0
+SKR42;;45750;Sonstige Erträge aus Provisionen, Lizenzen und Patenten, steuerfrei § 4 Nr. 5 UStG;ref:45750;4: Einnahmen;;0
+SKR42;;45760;Sonstige Erträge aus Provisionen, Lizenzen und Patenten 7 % USt;ref:45760;4: Einnahmen;;0
+SKR42;;45790;Sonstige Erträge aus Provisionen, Lizenzen und Patenten 19 % USt;ref:45790;4: Einnahmen;;0
+SKR42;;45800;Statistisches Konto Erlöse zum allgemeinen Umsatzsteuersatz (EÜR);ref:45800;4: Einnahmen;;0
+SKR42;;45810;Statistisches Konto Erlöse zum ermäßigten Umsatzsteuersatz (EÜR);ref:45810;4: Einnahmen;;0
+SKR42;;45820;Statistisches Konto Erlöse steuerfrei und nicht steuerbar (EÜR);ref:45820;4: Einnahmen;;0
+SKR42;;45890;Gegenkonto 45800 - 45829 bei Aufteilung der Erlöse nach Steuersätzen (EÜR);ref:45890;4: Einnahmen;;0
+SKR42;;46000;Unentgeltliche Wertabgaben;ref:46000;4: Einnahmen;;0
+SKR42;;46500;Unentgeltliche Erbringung einer sonstigen Leistung 7 % USt;ref:46500;4: Einnahmen;;0
+SKR42;;46560;Unentgeltliche Erbringung einer sonstigen Leistung 7 % USt;ref:46560;4: Einnahmen;;0
+SKR42;;46590;Unentgeltliche Erbringung einer sonstigen Leistung ohne USt;ref:46590;4: Einnahmen;;0
+SKR42;;46600;Unentgeltliche Erbringung einer sonstigen Leistung 19 % USt;ref:46600;4: Einnahmen;;0
+SKR42;;46700;Unentgeltliche Zuwendung von Waren 7 % USt;ref:46700;4: Einnahmen;;0
+SKR42;;46760;Unentgeltliche Zuwendung von Waren 7 % USt;ref:46760;4: Einnahmen;;0
+SKR42;;46790;Unentgeltliche Zuwendung von Waren ohne USt;ref:46790;4: Einnahmen;;0
+SKR42;;46800;Unentgeltliche Zuwendung von Waren 19 % USt;ref:46800;4: Einnahmen;;0
+SKR42;;46860;Unentgeltliche Zuwendung von Gegenständen 19 % USt;ref:46860;4: Einnahmen;;0
+SKR42;;46890;Unentgeltliche Zuwendung von Gegenständen ohne USt;ref:46890;4: Einnahmen;;0
+SKR42;;46900;Nicht steuerbare Umsätze (Innenumsätze);ref:46900;4: Einnahmen;;0
+SKR42;;46950;Umsatzsteuervergütungen, z. B. nach § 24 UStG;ref:46950;4: Einnahmen;;0
+SKR42;;46990;Direkt mit dem Umsatz verbundene Steuern;ref:46990;4: Einnahmen;;0
+SKR42;;47000;Erlösschmälerungen;ref:47000;4: Einnahmen;;0
+SKR42;;47010;Erlösschmälerungen für steuerfreie Umsätze nach § 4 Nr. 8 ff. UStG;ref:47010;4: Einnahmen;;0
+SKR42;;47020;Erlösschmälerungen für steuerfreie Umsätze nach § 4 Nr. 2 bis 7 UStG;ref:47020;4: Einnahmen;;0
+SKR42;;47030;Erlösschmälerungen für sonstige steuerfreie Umsätze ohne Vorsteuerabzug;ref:47030;4: Einnahmen;;0
+SKR42;;47040;Erlösschmälerungen für sonstige steuerfreie Umsätze mit Vorsteuerabzug;ref:47040;4: Einnahmen;;0
+SKR42;;47050;Erlösschmälerungen aus steuerfreien Umsätzen § 4 Nr. 1a UStG;ref:47050;4: Einnahmen;;0
+SKR42;;47060;Erlösschmälerungen für steuerfreie innergemeinschaftliche Dreiecksgeschäfte nach § 25b Abs. 2 und 4 UStG;ref:47060;4: Einnahmen;;0
+SKR42;;47100;Erlösschmälerungen 7 % USt;ref:47100;4: Einnahmen;;0
+SKR42;;47190;Erlösschmälerungen 0 % Ust;ref:47190;4: Einnahmen;;0
+SKR42;;47200;Erlösschmälerungen 19 % USt;ref:47200;4: Einnahmen;;0
+SKR42;;47240;Erlösschmälerungen aus steuerfreien innergemeinschaftlichen Lieferungen;ref:47240;4: Einnahmen;;0
+SKR42;;47250;Erlösschmälerungen aus im Inland steuerpflichtigen EU-Lieferungen 7 % USt;ref:47250;4: Einnahmen;;0
+SKR42;;47260;Erlösschmälerungen aus im Inland steuerpflichtigen EU-Lieferungen 19 % USt;ref:47260;4: Einnahmen;;0
+SKR42;;47270;Erlösschmälerungen aus im anderen EU-Land steuerpflichtigen Lieferungen;ref:47270;4: Einnahmen;;0
+SKR42;;47300;Gewährte Skonti;ref:47300;4: Einnahmen;;0
+SKR42;;47310;Gewährte Skonti 7 % USt;ref:47310;4: Einnahmen;;0
+SKR42;;47360;Gewährte Skonti 19 % USt;ref:47360;4: Einnahmen;;0
+SKR42;;47380;Gewährte Skonti a. Lieferungen v. Mobilfunkgeräten etc., für die der Leistungsempfänger die USt nach § 13b Abs. 2 Nr. 10 UStG schuldet;ref:47380;4: Einnahmen;;0
+SKR42;;47410;Gewährte Skonti aus Leistungen, für die der Leistungsempfänger die USt nach § 13b UStG schuldet;ref:47410;4: Einnahmen;;0
+SKR42;;47420;Gewährte Skonti aus Erlöse aus im anderen EU-Land steuerpflichtigen sonstigen Leistungen, für die der Leistungsempfänger die USt schuldet;ref:47420;4: Einnahmen;;0
+SKR42;;47430;Gewährte Skonti aus steuerfreien innergemeinschaftlichen Lieferungen § 4 Nr. 1b UStG;ref:47430;4: Einnahmen;;0
+SKR42;;47450;Gewährte Skonti aus im Inland steuerpflichtigen EU-Lieferungen;ref:47450;4: Einnahmen;;0
+SKR42;;47460;Gewährte Skonti aus im Inland steuerpflichtigen EU-Lieferungen 7 % USt;ref:47460;4: Einnahmen;;0
+SKR42;;47480;Gewährte Skonti aus im Inland steuerpflichtigen EU-Lieferungen 19 % USt;ref:47480;4: Einnahmen;;0
+SKR42;;47500;Gewährte Boni 7 % USt;ref:47500;4: Einnahmen;;0
+SKR42;;47600;Gewährte Boni 19 % USt;ref:47600;4: Einnahmen;;0
+SKR42;;47690;Gewährte Boni;ref:47690;4: Einnahmen;;0
+SKR42;;47700;Gewährte Rabatte;ref:47700;4: Einnahmen;;0
+SKR42;;47800;Gewährte Rabatte 7 % USt;ref:47800;4: Einnahmen;;0
+SKR42;;47900;Gewährte Rabatte 19 % USt;ref:47900;4: Einnahmen;;0
+SKR42;;48200;Andere aktivierte Eigenleistungen;ref:48200;4: Einnahmen;;0
+SKR42;;48240;Aktivierte Eigenleistungen (den Herstellungskosten zurechenbare Fremdkapitalzinsen);ref:48240;4: Einnahmen;;0
+SKR42;;48280;Zuschüsse von Verbänden und Behörden;ref:48280;4: Einnahmen;;0
+SKR42;;48290;Sonstige Zuschüsse;ref:48290;4: Einnahmen;;0
+SKR42;;48300;Sonstige betriebliche Erträge;ref:48300;4: Einnahmen;;0
+SKR42;;48320;Sonstige betriebliche Erträge von verbundenen Unternehmen;ref:48320;4: Einnahmen;;0
+SKR42;;48330;Andere Nebenerlöse;ref:48330;4: Einnahmen;;0
+SKR42;;48340;Sonstige Erträge betrieblich und regelmäßig 16 % USt;ref:48340;4: Einnahmen;;0
+SKR42;;48350;Sonstige Erträge betrieblich und regelmäßig;ref:48350;4: Einnahmen;;0
+SKR42;;48360;Sonstige Erträge betrieblich und regelmäßig 19 % USt;ref:48360;4: Einnahmen;;0
+SKR42;;48370;Sonstige Erträge betriebsfremd und regelmäßig;ref:48370;4: Einnahmen;;0
+SKR42;;48380;Erstattete Vorsteuer anderer Länder;ref:48380;4: Einnahmen;;0
+SKR42;;48390;Sonstige Erträge unregelmäßig;ref:48390;4: Einnahmen;;0
+SKR42;;48400;Erträge aus der Währungsumrechnung;ref:48400;4: Einnahmen;;0
+SKR42;;48410;Sonstige Erträge betrieblich und regelmäßig, steuerfrei § 4 Nr. 8 ff. UStG;ref:48410;4: Einnahmen;;0
+SKR42;;48420;Sonstige betriebliche Erträge, steuerfrei z. B. § 4 Nr. 2 bis 7 UStG;ref:48420;4: Einnahmen;;0
+SKR42;;48430;Erträge aus Bewertung Finanzmittelfonds;ref:48430;4: Einnahmen;;0
+SKR42;;48440;Erlöse aus Verkäufen Sachanlagevermögen steuerfrei § 4 Nr. 1a UStG (bei Buchgewinn);ref:48440;4: Einnahmen;;0
+SKR42;;48450;Erlöse aus Verkäufen Sachanlagevermögen 19 % USt (bei Buchgewinn);ref:48450;4: Einnahmen;;0
+SKR42;;48470;Erträge aus der Währungsumrechnung (nicht § 256a HGB);ref:48470;4: Einnahmen;;0
+SKR42;;48480;Erlöse aus Verkäufen Sachanlagevermögen steuerfrei § 4 Nr. 1b UStG (bei Buchgewinn);ref:48480;4: Einnahmen;;0
+SKR42;;48490;Erlöse aus Verkäufen Sachanlagevermögen (bei Buchgewinn);ref:48490;4: Einnahmen;;0
+SKR42;;48500;Erlöse aus Verkäufen immaterieller Vermögensgegenstände (bei Buchgewinn);ref:48500;4: Einnahmen;;0
+SKR42;;48510;Erlöse aus Verkäufen Finanzanlagen (bei Buchgewinn);ref:48510;4: Einnahmen;;0
+SKR42;;48520;Erlöse aus Verkäufen Finanzanlagen § 3 Nr. 40 EStG bzw. § 8b Abs. 2 KStG (bei Buchgewinn);ref:48520;4: Einnahmen;;0
+SKR42;;48550;Anlagenabgänge Sachanlagen (Restbuchwert bei Buchgewinn);ref:48550;4: Einnahmen;;0
+SKR42;;48560;Anlagenabgänge immaterielle Vermögensgegenstände (Restbuchwert bei Buchgewinn);ref:48560;4: Einnahmen;;0
+SKR42;;48570;Anlagenabgänge Finanzanlagen (Restbuchwert bei Buchgewinn);ref:48570;4: Einnahmen;;0
+SKR42;;48580;Anlagenabgänge Finanzanlagen § 3 Nr. 40 EStG bzw. § 8b Abs. 2 KStG (Restbuchwert bei Buchgewinn);ref:48580;4: Einnahmen;;0
+SKR42;;48600;Grundstückserträge;ref:48600;4: Einnahmen;;0
+SKR42;;48610;Erlöse aus Vermietung und Verpachtung, umsatzsteuerfrei § 4 Nr. 12 UStG;ref:48610;4: Einnahmen;;0
+SKR42;;48620;Erlöse aus Vermietung und Verpachtung 19 % USt;ref:48620;4: Einnahmen;;0
+SKR42;;48630;Erlöse aus Vermietung und Verpachtung 7 % USt;ref:48630;4: Einnahmen;;0
+SKR42;;48650;Erlöse aus Verkäufen von Wirtschaftsgütern des Umlaufvermögens 19 % USt für § 4 Abs. 3 S. 4 EStG;ref:48650;4: Einnahmen;;0
+SKR42;;48660;Erlöse aus Verkäufen von Wirtschaftsgütern des Umlaufvermögens umsatzsteuerfrei § 4 Nr. 8 ff. UStG i. V. m. § 4 Abs. 3 S. 4 EStG;ref:48660;4: Einnahmen;;0
+SKR42;;48670;Erlöse aus Verkäufen von Wirtschaftsgütern des Umlaufvermögens, umsatzsteuerfrei § 4 Nr. 8 ff. UStG i. V. m. § 4 Abs. 3 S. 4 EStG und § 3 Nr. 40 EStG bzw. § 8b Abs. 2 KStG;ref:48670;4: Einnahmen;;0
+SKR42;;48690;Erlöse aus Verkäufen von Wirtschaftsgütern des Umlaufvermögens nach § 4 Abs. 3 S. 4 EStG;ref:48690;4: Einnahmen;;0
+SKR42;;49010;Erträge aus der Veräußerung von Anteilen an Kapitalgesellschaften (Finanzanlagevermögen) § 3 Nr. 40 EStG bzw. § 8b Abs. 2 KStG;ref:49010;4: Einnahmen;;0
+SKR42;;49040;Abgänge Wertpapiere des Umlaufvermögens § 8b Abs. 2 KStG (Buchwert bei Buchgewinn);ref:49040;4: Einnahmen;;0
+SKR42;;49050;Erträge aus dem Abgang von Gegenständen des Umlaufvermögens (außer Vorräte);ref:49050;4: Einnahmen;;0
+SKR42;;49060;Erträge aus dem Abgang von Gegenständen des Umlaufvermögens (außer Vorräte) § 3 Nr. 40 EStG bzw. § 8b Abs. 2 KStG;ref:49060;4: Einnahmen;;0
+SKR42;;49250;Erträge aus abgeschriebenen Forderungen;ref:49250;4: Einnahmen;;0
+SKR42;;49270;Erträge aus der Auflösung einer steuerlichen Rücklage nach § 6b Abs. 3 EStG;ref:49270;4: Einnahmen;;0
+SKR42;;49290;Erträge aus der Auflösung der Rücklage für Ersatzbeschaffung, R 6.6 EStR;ref:49290;4: Einnahmen;;0
+SKR42;;49350;Erträge aus der Auflösung sonstiger steuerlicher Rücklagen;ref:49350;4: Einnahmen;;0
+SKR42;;49380;Erträge aus der Auflösung einer steuerlichen Rücklage nach § 4g EStG;ref:49380;4: Einnahmen;;0
+SKR42;;49400;Verrechnete sonstige Sachbezüge (keine Waren);ref:49400;4: Einnahmen;;0
+SKR42;;49410;Sachbezüge 7 % USt (Waren);ref:49410;4: Einnahmen;;0
+SKR42;;49440;Verrechnete sonstige Sachbezüge aus Fahrzeug-Gestellung zum ermäßigten Umsatzsteuersatz;ref:49440;4: Einnahmen;;0
+SKR42;;49450;Sachbezüge 19 % USt (Waren);ref:49450;4: Einnahmen;;0
+SKR42;;49460;Verrechnete sonstige Sachbezüge;ref:49460;4: Einnahmen;;0
+SKR42;;49470;Verrechnete sonstige Sachbezüge aus Fahrzeug-Gestellung 19 % USt;ref:49470;4: Einnahmen;;0
+SKR42;;49480;Verrechnete sonstige Sachbezüge 19 % USt;ref:49480;4: Einnahmen;;0
+SKR42;;49490;Verrechnete sonstige Sachbezüge ohne Umsatzsteuer;ref:49490;4: Einnahmen;;0
+SKR42;;49600;Periodenfremde Erträge;ref:49600;4: Einnahmen;;0
+SKR42;;49700;Versicherungsentschädigungen und Schadenersatzleistungen;ref:49700;4: Einnahmen;;0
+SKR42;;49720;Erstattungen Aufwendungsausgleichsgesetz;ref:49720;4: Einnahmen;;0
+SKR42;;49750;Investitionszuschüsse (steuerpflichtig);ref:49750;4: Einnahmen;;0
+SKR42;;49800;Investitionszulagen (steuerfrei);ref:49800;4: Einnahmen;;0
+SKR42;;49810;Steuerfreie Erträge aus der Auflösung von steuerlichen Rücklagen;ref:49810;4: Einnahmen;;0
+SKR42;;49820;Sonstige steuerfreie Betriebseinnahmen;ref:49820;4: Einnahmen;;0
+SKR42;;49860;Ertrag aus pauschaler Vorsteuer § 23a UStG;ref:49860;4: Einnahmen;;0
+SKR42;;49870;Erträge aus der Aktivierung unentgeltlich erworbener Vermögensgegenstände;ref:49870;4: Einnahmen;;0
+SKR42;;49890;Kostenerstattungen, Rückvergütungen und Gutschriften für frühere Jahre;ref:49890;4: Einnahmen;;0
+SKR42;;49920;Erträge aus Verwaltungskostenumlagen;ref:49920;4: Einnahmen;;0
+SKR42;;50000;Aufwendungen für Roh-, Hilfs- und Betriebsstoffe und für bezogene Waren;ref:50000;5: Ausgaben;;0
+SKR42;;51000;Einkauf Roh-, Hilfs- und Betriebsstoffe;ref:51000;5: Ausgaben;;0
+SKR42;;51100;Einkauf Roh-, Hilfs- und Betriebsstoffe 7 % Vorsteuer;ref:51100;5: Ausgaben;;0
+SKR42;;51290;Einkauf Roh-, Hilfs- und Betriebsstoffe ohne Vorsteuerabzug;ref:51290;5: Ausgaben;;0
+SKR42;;51300;Einkauf Roh-, Hilfs- und Betriebsstoffe 19 % Vorsteuer;ref:51300;5: Ausgaben;;0
+SKR42;;51600;Einkauf Roh-, Hilfs- und Betriebsstoffe, innergemeinschaftlicher Erwerb 7 % Vorsteuer und 7 % Umsatzsteuer;ref:51600;5: Ausgaben;;0
+SKR42;;51620;Einkauf Roh-, Hilfs- und Betriebsstoffe, innergemeinschaftlicher Erwerb 19 % Vorsteuer und 19 % Umsatzsteuer;ref:51620;5: Ausgaben;;0
+SKR42;;51660;Einkauf Roh-, Hilfs- und Betriebsstoffe, innergemeinschaftlicher Erwerb ohne Vorsteuer und 7 % Umsatzsteuer;ref:51660;5: Ausgaben;;0
+SKR42;;51670;Einkauf Roh-, Hilfs- und Betriebsstoffe, innergemeinschaftlicher Erwerb ohne Vorsteuer und 19 % Umsatzsteuer;ref:51670;5: Ausgaben;;0
+SKR42;;51700;Einkauf Roh-, Hilfs- und Betriebsstoffe 5,5 % Vorsteuer;ref:51700;5: Ausgaben;;0
+SKR42;;51710;Einkauf Roh-, Hilfs- und Betriebsstoffe 9,0 % Vorsteuer;ref:51710;5: Ausgaben;;0
+SKR42;;51750;Einkauf Roh-, Hilfs- und Betriebsstoffe aus einem USt-Lager § 13a UStG 7 % Vorsteuer und 7 % Umsatzsteuer;ref:51750;5: Ausgaben;;0
+SKR42;;51760;Einkauf Roh-, Hilfs- und Betriebsstoffe aus einem USt-Lager § 13a UStG 19 % Vorsteuer und 19 % Umsatzsteuer;ref:51760;5: Ausgaben;;0
+SKR42;;51890;Erwerb Roh-, Hilfs- und Betriebsstoffe als letzter Abnehmer innerhalb Dreiecksgeschäft 19 % Vorsteuer und 19 % Umsatzsteuer;ref:51890;5: Ausgaben;;0
+SKR42;;51900;Energiestoffe (Fertigung);ref:51900;5: Ausgaben;;0
+SKR42;;51910;Energiestoffe (Fertigung) 7 % Vorsteuer;ref:51910;5: Ausgaben;;0
+SKR42;;51920;Energiestoffe (Fertigung) 19 % Vorsteuer;ref:51920;5: Ausgaben;;0
+SKR42;;52000;Wareneingang;ref:52000;5: Ausgaben;;0
+SKR42;;53000;Wareneingang 7 % Vorsteuer;ref:53000;5: Ausgaben;;0
+SKR42;;53470;Wareneingang 7 % Vorsteuer;ref:53470;5: Ausgaben;;0
+SKR42;;53490;Wareneingang ohne Vorsteuerabzug;ref:53490;5: Ausgaben;;0
+SKR42;;54000;Wareneingang 19 % Vorsteuer;ref:54000;5: Ausgaben;;0
+SKR42;;54180;Wareneingang 19 % Vorsteuer;ref:54180;5: Ausgaben;;0
+SKR42;;54200;Innergemeinschaftlicher Erwerb 7 % Vorsteuer und 7 % Umsatzsteuer;ref:54200;5: Ausgaben;;0
+SKR42;;54250;Innergemeinschaftlicher Erwerb 19 % Vorsteuer und 19 % Umsatzsteuer;ref:54250;5: Ausgaben;;0
+SKR42;;54300;Innergemeinschaftlicher Erwerb ohne Vorsteuer und 7 % Umsatzsteuer;ref:54300;5: Ausgaben;;0
+SKR42;;54350;Innergemeinschaftlicher Erwerb ohne Vorsteuer und 19 % Umsatzsteuer;ref:54350;5: Ausgaben;;0
+SKR42;;54400;Innergemeinschaftlicher Erwerb von Neufahrzeugen von Lieferanten ohne Umsatzsteuer-Identifikationsnummer 19 % Vorsteuer und 19 % Umsatzsteuer;ref:54400;5: Ausgaben;;0
+SKR42;;55050;Wareneingang 5,5 % Vorsteuer;ref:55050;5: Ausgaben;;0
+SKR42;;55400;Wareneingang zum Durchschnittssatz nach § 24 UStG 9,0 % Vorsteuer;ref:55400;5: Ausgaben;;0
+SKR42;;55500;Steuerfreier innergemeinschaftlicher Erwerb;ref:55500;5: Ausgaben;;0
+SKR42;;55510;Wareneingang im Drittland steuerbar;ref:55510;5: Ausgaben;;0
+SKR42;;55520;Erwerb 1. Abnehmer innerhalb eines Dreieckgeschäftes;ref:55520;5: Ausgaben;;0
+SKR42;;55530;Erwerb Waren als letzter Abnehmer innerhalb Dreiecksgeschäft 19 % Vorsteuer und 19 % Umsatzsteuer;ref:55530;5: Ausgaben;;0
+SKR42;;55580;Wareneingang im anderen EU-Land steuerbar;ref:55580;5: Ausgaben;;0
+SKR42;;55590;Steuerfreie Einfuhren;ref:55590;5: Ausgaben;;0
+SKR42;;55600;Waren aus einem Umsatzsteuerlager, § 13a UStG 7 % Vorsteuer und 7 % Umsatzsteuer;ref:55600;5: Ausgaben;;0
+SKR42;;55650;Waren aus einem Umsatzsteuerlager, § 13a UStG 19 % Vorsteuer und 19 % Umsatzsteuer;ref:55650;5: Ausgaben;;0
+SKR42;;56000;Nicht abziehbare Vorsteuer;ref:56000;5: Ausgaben;;0
+SKR42;;56100;Nicht abziehbare Vorsteuer 7 %;ref:56100;5: Ausgaben;;0
+SKR42;;56600;Nicht abziehbare Vorsteuer 19 %;ref:56600;5: Ausgaben;;0
+SKR42;;57000;Nachlässe;ref:57000;5: Ausgaben;;0
+SKR42;;57010;Nachlässe aus Einkauf Roh-, Hilfsund Betriebsstoffe;ref:57010;5: Ausgaben;;0
+SKR42;;57100;Nachlässe 7 % Vorsteuer;ref:57100;5: Ausgaben;;0
+SKR42;;57140;Nachlässe aus Einkauf Roh-, Hilfsund Betriebsstoffe 7 % Vorsteuer;ref:57140;5: Ausgaben;;0
+SKR42;;57150;Nachlässe aus Einkauf Roh-, Hilfsund Betriebsstoffe 19 % Vorsteuer;ref:57150;5: Ausgaben;;0
+SKR42;;57170;Nachlässe aus Einkauf Roh-, Hilfsund Betriebsstoffe, innergemeinschaftlicher Erwerb 7 % Vorsteuer und 7 % Umsatzsteuer;ref:57170;5: Ausgaben;;0
+SKR42;;57180;Nachlässe aus Einkauf Roh-, Hilfsund Betriebsstoffe, innergemeinschaftlicher Erwerb 19 % Vorsteuer und 19 % Umsatzsteuer;ref:57180;5: Ausgaben;;0
+SKR42;;57200;Nachlässe 19 % Vorsteuer;ref:57200;5: Ausgaben;;0
+SKR42;;57240;Nachlässe aus innergemeinschaftlichem Erwerb 7 % Vorsteuer und 7 % Umsatzsteuer;ref:57240;5: Ausgaben;;0
+SKR42;;57250;Nachlässe aus innergemeinschaftlichem Erwerb 19 % Vorsteuer und 19 % Umsatzsteuer;ref:57250;5: Ausgaben;;0
+SKR42;;57300;Erhaltene Skonti;ref:57300;5: Ausgaben;;0
+SKR42;;57310;Erhaltene Skonti 7 % Vorsteuer;ref:57310;5: Ausgaben;;0
+SKR42;;57330;Erhaltene Skonti aus Einkauf Roh-, Hilfs- und Betriebsstoffe;ref:57330;5: Ausgaben;;0
+SKR42;;57340;Erhaltene Skonti aus Einkauf Roh-, Hilfs- und Betriebsstoffe 7 % Vorsteuer;ref:57340;5: Ausgaben;;0
+SKR42;;57360;Erhaltene Skonti 19 % Vorsteuer;ref:57360;5: Ausgaben;;0
+SKR42;;57380;Erhaltene Skonti aus Einkauf Roh-, Hilfs- und Betriebsstoffe 19 % Vorsteuer;ref:57380;5: Ausgaben;;0
+SKR42;;57410;Erhaltene Skonti aus Einkauf Roh-, Hilfs- und Betriebsstoffe aus steuerpflichtigem innergemeinschaftlichem Erwerb 19 % Vorsteuer und 19 % Umsatzsteuer;ref:57410;5: Ausgaben;;0
+SKR42;;57430;Erhaltene Skonti aus Einkauf Roh-, Hilfs- und Betriebsstoffe aus steuerpflichtigem innergemeinschaftlichem Erwerb 7 % Vorsteuer und 7 % Umsatzsteuer;ref:57430;5: Ausgaben;;0
+SKR42;;57440;Erhaltene Skonti aus Einkauf Roh-, Hilfs- und Betriebsstoffe aus steuerpflichtigem innergemeinschaftlichem Erwerb;ref:57440;5: Ausgaben;;0
+SKR42;;57450;Erhaltene Skonti aus steuerpflichtigem innergemeinschaftlichem Erwerb;ref:57450;5: Ausgaben;;0
+SKR42;;57460;Erhaltene Skonti aus steuerpflichtigem innergemeinschaftlichem Erwerb 7 % Vorsteuer und 7 % Umsatzsteuer;ref:57460;5: Ausgaben;;0
+SKR42;;57480;Erhaltene Skonti aus steuerpflichtigem innergemeinschaftlichem Erwerb 19 % Vorsteuer und 19 % Umsatzsteuer;ref:57480;5: Ausgaben;;0
+SKR42;;57500;Erhaltene Boni 7 % Vorsteuer;ref:57500;5: Ausgaben;;0
+SKR42;;57530;Erhaltene Boni aus Einkauf Roh-, Hilfs- und Betriebsstoffe;ref:57530;5: Ausgaben;;0
+SKR42;;57540;Erhaltene Boni aus Einkauf Roh-, Hilfs- und Betriebsstoffe 7 % Vorsteuer;ref:57540;5: Ausgaben;;0
+SKR42;;57550;Erhaltene Boni aus Einkauf Roh-, Hilfs- und Betriebsstoffe 19 % Vorsteuer;ref:57550;5: Ausgaben;;0
+SKR42;;57600;Erhaltene Boni 19 % Vorsteuer;ref:57600;5: Ausgaben;;0
+SKR42;;57690;Erhaltene Boni;ref:57690;5: Ausgaben;;0
+SKR42;;57700;Erhaltene Rabatte;ref:57700;5: Ausgaben;;0
+SKR42;;57800;Erhaltene Rabatte 7 % Vorsteuer;ref:57800;5: Ausgaben;;0
+SKR42;;57830;Erhaltene Rabatte aus Einkauf Roh-, Hilfs- und Betriebsstoffe;ref:57830;5: Ausgaben;;0
+SKR42;;57840;Erhaltene Rabatte aus Einkauf Roh-, Hilfs- und Betriebsstoffe 7 % Vorsteuer;ref:57840;5: Ausgaben;;0
+SKR42;;57850;Erhaltene Rabatte aus Einkauf Roh-, Hilfs- und Betriebsstoffe 19 % Vorsteuer;ref:57850;5: Ausgaben;;0
+SKR42;;57870;Erhaltene Skonti aus Einkauf Roh-, Hilfs- und Betriebsstoffe 9,0 % Vorsteuer;ref:57870;5: Ausgaben;;0
+SKR42;;57890;Erhaltene Skonti aus Einkauf Roh-, Hilfs- und Betriebsstoffe 9,5 % Vorsteuer;ref:57890;5: Ausgaben;;0
+SKR42;;57900;Erhaltene Rabatte 19 % Vorsteuer;ref:57900;5: Ausgaben;;0
+SKR42;;57920;Erhaltene Skonti aus Erwerb Roh-, Hilfs- und Betriebsstoffe als letzter Abnehmer innerhalb Dreiecksgeschäft 19 % Vorsteuer und 19 % Umsatzsteuer;ref:57920;5: Ausgaben;;0
+SKR42;;57930;Erhaltene Skonti aus Erwerb Waren als letzter Abnehmer innerhalb Dreiecksgeschäft 19 % Vorsteuer und 19 % Umsatzsteuer;ref:57930;5: Ausgaben;;0
+SKR42;;57940;Erhaltene Skonti 5,5 % Vorsteuer;ref:57940;5: Ausgaben;;0
+SKR42;;57950;Erhaltene Skonti 9,0 % Vorsteuer;ref:57950;5: Ausgaben;;0
+SKR42;;57970;Erhaltene Skonti 9,5 % Vorsteuer;ref:57970;5: Ausgaben;;0
+SKR42;;57980;Erhaltene Skonti aus Einkauf Roh-, Hilfs- und Betriebsstoffe 5,5 % Vorsteuer;ref:57980;5: Ausgaben;;0
+SKR42;;58000;Bezugsnebenkosten;ref:58000;5: Ausgaben;;0
+SKR42;;58200;Leergut;ref:58200;5: Ausgaben;;0
+SKR42;;58400;Zölle und Einfuhrabgaben;ref:58400;5: Ausgaben;;0
+SKR42;;58600;Verrechnete Stoffkosten (Gegenkonto zu 50000 - 50999);ref:58600;5: Ausgaben;;0
+SKR42;;58850;Bestandsveränderungen Roh-, Hilfs- und Betriebsstoffe;ref:58850;5: Ausgaben;;0
+SKR42;;59000;Fremdleistungen;ref:59000;5: Ausgaben;;0
+SKR42;;59060;Fremdleistungen 19 % Vorsteuer;ref:59060;5: Ausgaben;;0
+SKR42;;59080;Fremdleistungen 7 % Vorsteuer;ref:59080;5: Ausgaben;;0
+SKR42;;59090;Fremdleistungen ohne Vorsteuer;ref:59090;5: Ausgaben;;0
+SKR42;;59100;Bauleistungen eines im Inland ansässigen Unternehmers 7 % Vorsteuer und 7 % Umsatzsteuer;ref:59100;5: Ausgaben;;0
+SKR42;;59130;Sonstige Leistungen eines im anderen EU-Land ansässigen Unternehmers 7 % Vorsteuer und 7 % Umsatzsteuer;ref:59130;5: Ausgaben;;0
+SKR42;;59150;Leistungen eines im Ausland ansässigen Unternehmers 7 % Vorsteuer und 7 % Umsatzsteuer;ref:59150;5: Ausgaben;;0
+SKR42;;59200;Bauleistungen eines im Inland ansässigen Unternehmers 19 % Vorsteuer und 19 % Umsatzsteuer;ref:59200;5: Ausgaben;;0
+SKR42;;59230;Sonstige Leistungen eines im anderen EU-Land ansässigen Unternehmers 19 % Vorsteuer und 19 % Umsatzsteuer;ref:59230;5: Ausgaben;;0
+SKR42;;59250;Leistungen eines im Ausland ansässigen Unternehmers 19 % Vorsteuer und 19 % Umsatzsteuer;ref:59250;5: Ausgaben;;0
+SKR42;;59300;Bauleistungen eines im Inland ansässigen Unternehmers ohne Vorsteuer und 7 % Umsatzsteuer;ref:59300;5: Ausgaben;;0
+SKR42;;59330;Sonstige Leistungen eines im anderen EU-Land ansässigen Unternehmers ohne Vorsteuer und 7 % Umsatzsteuer;ref:59330;5: Ausgaben;;0
+SKR42;;59350;Leistungen eines im Ausland ansässigen Unternehmers ohne Vorsteuer und 7 % Umsatzsteuer;ref:59350;5: Ausgaben;;0
+SKR42;;59400;Bauleistungen eines im Inland ansässigen Unternehmers ohne Vorsteuer und 19 % Umsatzsteuer;ref:59400;5: Ausgaben;;0
+SKR42;;59430;Sonstige Leistungen eines im anderen EU-Land ansässigen Unternehmers ohne Vorsteuer und 19 % Umsatzsteuer;ref:59430;5: Ausgaben;;0
+SKR42;;59450;Leistungen eines im Ausland ansässigen Unternehmers ohne Vorsteuer und 19 % Umsatzsteuer;ref:59450;5: Ausgaben;;0
+SKR42;;59500;Erhaltene Skonti aus Leistungen, für die als Leistungsempfänger die Steuer nach § 13b UStG geschuldet wird;ref:59500;5: Ausgaben;;0
+SKR42;;59510;Erhaltene Skonti aus Leistungen, für die als Leistungsempfänger die Steuer nach § 13b UStG geschuldet wird 19 % Vorsteuer und 19 % Umsatzsteuer;ref:59510;5: Ausgaben;;0
+SKR42;;59530;Erhaltene Skonti aus Leistungen, für die als Leistungsempfänger die Steuer nach § 13b UStG geschuldet wird ohne Vorsteuer aber mit Umsatzsteuer;ref:59530;5: Ausgaben;;0
+SKR42;;59540;Erhaltene Skonti aus Leistungen, für die als Leistungsempfänger die Steuer nach § 13b UStG geschuldet wird ohne Vorsteuer, mit 19 % Umsatzsteuer;ref:59540;5: Ausgaben;;0
+SKR42;;59600;Leistungen nach § 13b UStG mit Vorsteuerabzug;ref:59600;5: Ausgaben;;0
+SKR42;;59650;Leistungen nach § 13b UStG ohne Vorsteuerabzug;ref:59650;5: Ausgaben;;0
+SKR42;;60000;Löhne und Gehälter;ref:60000;6: Ausgaben;;0
+SKR42;;60020;Ehrenamtspauschale;ref:60020;6: Ausgaben;;0
+SKR42;;60040;Übungsleiterpauschale;ref:60040;6: Ausgaben;;0
+SKR42;;60100;Löhne;ref:60100;6: Ausgaben;;0
+SKR42;;60200;Gehälter;ref:60200;6: Ausgaben;;0
+SKR42;;60270;Geschäftsführergehälter;ref:60270;6: Ausgaben;;0
+SKR42;;60290;Tantiemen Arbeitnehmer;ref:60290;6: Ausgaben;;0
+SKR42;;60300;Aushilfslöhne;ref:60300;6: Ausgaben;;0
+SKR42;;60350;Löhne für Minijobs;ref:60350;6: Ausgaben;;0
+SKR42;;60360;Pauschale Steuer für Minijobber;ref:60360;6: Ausgaben;;0
+SKR42;;60390;Pauschale Steuer für Arbeitnehmer;ref:60390;6: Ausgaben;;0
+SKR42;;60400;Pauschale Steuer für Aushilfen;ref:60400;6: Ausgaben;;0
+SKR42;;60450;Bedienungsgelder;ref:60450;6: Ausgaben;;0
+SKR42;;60600;Freiwillige soziale Aufwendungen, lohnsteuerpflichtig;ref:60600;6: Ausgaben;;0
+SKR42;;60660;Freiwillige Zuwendungen an Minijobber;ref:60660;6: Ausgaben;;0
+SKR42;;60690;Pauschale Steuer auf sonstige Bezüge (z. B. Fahrtkostenzuschüsse);ref:60690;6: Ausgaben;;0
+SKR42;;60700;Krankengeldzuschüsse;ref:60700;6: Ausgaben;;0
+SKR42;;60710;Sachzuwendungen und Dienstleistungen an Minijobber;ref:60710;6: Ausgaben;;0
+SKR42;;60720;Sachzuwendungen und Dienstleistungen an Arbeitnehmer;ref:60720;6: Ausgaben;;0
+SKR42;;60750;Zuschüsse der Agenturen für Arbeit (Haben);ref:60750;6: Ausgaben;;0
+SKR42;;60800;Vermögenswirksame Leistungen;ref:60800;6: Ausgaben;;0
+SKR42;;60900;Fahrtkostenerstattung Wohnung / Arbeitsstätte;ref:60900;6: Ausgaben;;0
+SKR42;;61000;Soziale Abgaben und Aufwendungen für Altersversorgung und für Unterstützung;ref:61000;6: Ausgaben;;0
+SKR42;;61100;Gesetzliche soziale Aufwendungen;ref:61100;6: Ausgaben;;0
+SKR42;;61200;Beiträge zur Berufsgenossenschaft;ref:61200;6: Ausgaben;;0
+SKR42;;61300;Freiwillige soziale Aufwendungen, lohnsteuerfrei;ref:61300;6: Ausgaben;;0
+SKR42;;61400;Aufwendungen für Altersversorgung;ref:61400;6: Ausgaben;;0
+SKR42;;61470;Pauschale Steuer auf sonstige Bezüge (z. B. Direktversicherungen);ref:61470;6: Ausgaben;;0
+SKR42;;61500;Versorgungskassen;ref:61500;6: Ausgaben;;0
+SKR42;;61600;Aufwendungen für Unterstützung;ref:61600;6: Ausgaben;;0
+SKR42;;61700;Sonstige soziale Abgaben;ref:61700;6: Ausgaben;;0
+SKR42;;61710;Soziale Abgaben für Minijobber;ref:61710;6: Ausgaben;;0
+SKR42;;62000;Abschreibungen auf immaterielle Vermögensgegenstände;ref:62000;6: Ausgaben;;0
+SKR42;;62050;Abschreibungen auf den Geschäftsoder Firmenwert;ref:62050;6: Ausgaben;;0
+SKR42;;62090;Außerplanmäßige Abschreibungen auf den Geschäfts- oder Firmenwert;ref:62090;6: Ausgaben;;0
+SKR42;;62100;Außerplanmäßige Abschreibungen auf immaterielle Vermögensgegenstände;ref:62100;6: Ausgaben;;0
+SKR42;;62200;Abschreibungen auf Sachanlagen (ohne AfA auf Fahrzeuge und Gebäude);ref:62200;6: Ausgaben;;0
+SKR42;;62210;Abschreibungen auf Gebäude;ref:62210;6: Ausgaben;;0
+SKR42;;62220;Abschreibungen auf Fahrzeuge;ref:62220;6: Ausgaben;;0
+SKR42;;62300;Außerplanmäßige Abschreibungen auf Sachanlagen;ref:62300;6: Ausgaben;;0
+SKR42;;62310;Absetzung für außergewöhnliche technische und wirtschaftliche Abnutzung der Gebäude;ref:62310;6: Ausgaben;;0
+SKR42;;62320;Absetzung für außergewöhnliche technische und wirtschaftliche Abnutzung der Fahrzeuge;ref:62320;6: Ausgaben;;0
+SKR42;;62330;Absetzung für außergewöhnliche technische und wirtschaftliche Abnutzung sonstiger Wirtschaftsgüter;ref:62330;6: Ausgaben;;0
+SKR42;;62400;Abschreibungen auf Sachanlagen auf Grund steuerlicher Sondervorschriften;ref:62400;6: Ausgaben;;0
+SKR42;;62410;Sonderabschreibungen nach § 7g Abs. 5 EStG (ohne Fahrzeuge);ref:62410;6: Ausgaben;;0
+SKR42;;62420;Sonderabschreibungen nach § 7g Abs. 5 EStG (für Fahrzeuge);ref:62420;6: Ausgaben;;0
+SKR42;;62430;Kürzung der Anschaffungs- oder Herstellungskosten nach § 7g Abs. 2 EStG (ohne Fahrzeuge);ref:62430;6: Ausgaben;;0
+SKR42;;62440;Kürzung der Anschaffungs- oder Herstellungskosten nach § 7g Abs. 2 EStG (für Fahrzeuge);ref:62440;6: Ausgaben;;0
+SKR42;;62450;Sonderabschreibungen nach § 7b EStG (Mietwohnungsneubau);ref:62450;6: Ausgaben;;0
+SKR42;;62500;Kaufleasing;ref:62500;6: Ausgaben;;0
+SKR42;;62600;Sofortabschreibung geringwertiger Wirtschaftsgüter;ref:62600;6: Ausgaben;;0
+SKR42;;62620;Abschreibungen auf aktivierte, geringwertige Wirtschaftsgüter;ref:62620;6: Ausgaben;;0
+SKR42;;62640;Abschreibungen auf den Sammelposten Wirtschaftsgüter;ref:62640;6: Ausgaben;;0
+SKR42;;62660;Außerplanmäßige Abschreibungen auf aktivierte geringwertige Wirtschaftsgüter;ref:62660;6: Ausgaben;;0
+SKR42;;62800;Forderungsverluste (soweit unüblich hoch);ref:62800;6: Ausgaben;;0
+SKR42;;62810;Forderungsverluste 7 % USt (soweit unüblich hoch);ref:62810;6: Ausgaben;;0
+SKR42;;62860;Forderungsverluste 19 % USt (soweit unüblich hoch);ref:62860;6: Ausgaben;;0
+SKR42;;63000;Sonstige betriebliche Aufwendungen;ref:63000;6: Ausgaben;;0
+SKR42;;63010;Verwaltungskosten;ref:63010;6: Ausgaben;;0
+SKR42;;63020;Aufwandsentschädigungen / Erstattungen;ref:63020;6: Ausgaben;;0
+SKR42;;63030;Transportkosten;ref:63030;6: Ausgaben;;0
+SKR42;;63040;Veranstaltungskosten;ref:63040;6: Ausgaben;;0
+SKR42;;63050;Kosten der Mitgliederverwaltung;ref:63050;6: Ausgaben;;0
+SKR42;;63060;Interimskonto für Aufwendungen in einem anderen Land, bei denen eine Vorsteuervergütung möglich ist;ref:63060;6: Ausgaben;;0
+SKR42;;63070;Fremdleistungen/Fremdarbeiten;ref:63070;6: Ausgaben;;0
+SKR42;;63080;Sonstige Aufwendungen betrieblich und regelmäßig;ref:63080;6: Ausgaben;;0
+SKR42;;63090;Raumkosten;ref:63090;6: Ausgaben;;0
+SKR42;;63100;Miete (unbewegliche Wirtschaftsgüter);ref:63100;6: Ausgaben;;0
+SKR42;;63150;Pacht (unbewegliche Wirtschaftsgüter);ref:63150;6: Ausgaben;;0
+SKR42;;63160;Leasing (unbewegliche Wirtschaftsgüter);ref:63160;6: Ausgaben;;0
+SKR42;;63170;Aufwendungen für gemietete oder gepachtete unbewegliche Wirtschaftsgüter, die gewerbesteuerlich hinzuzurechnen sind;ref:63170;6: Ausgaben;;0
+SKR42;;63180;Miet- und Pachtnebenkosten, die gewerbesteuerlich nicht hinzuzurechnen sind;ref:63180;6: Ausgaben;;0
+SKR42;;63200;Heizung;ref:63200;6: Ausgaben;;0
+SKR42;;63250;Gas, Strom, Wasser;ref:63250;6: Ausgaben;;0
+SKR42;;63300;Reinigung;ref:63300;6: Ausgaben;;0
+SKR42;;63350;Instandhaltung betrieblicher Räume;ref:63350;6: Ausgaben;;0
+SKR42;;63400;Abgaben für betrieblich genutzten Grundbesitz;ref:63400;6: Ausgaben;;0
+SKR42;;63450;Sonstige Raumkosten;ref:63450;6: Ausgaben;;0
+SKR42;;63500;Grundstücksaufwendungen betrieblich;ref:63500;6: Ausgaben;;0
+SKR42;;63520;Sonstige Grundstücksaufwendungen (neutral);ref:63520;6: Ausgaben;;0
+SKR42;;63900;Zuwendungen, Spenden, steuerlich nicht abziehbar;ref:63900;6: Ausgaben;;0
+SKR42;;63910;Zuwendungen, Spenden für wissenschaftliche und kulturelle Zwecke;ref:63910;6: Ausgaben;;0
+SKR42;;63920;Zuwendungen, Spenden für mildtätige Zwecke;ref:63920;6: Ausgaben;;0
+SKR42;;63930;Zuwendungen, Spenden für kirchliche, religiöse und gemeinnützige Zwecke;ref:63930;6: Ausgaben;;0
+SKR42;;63940;Zuwendungen, Spenden an politische Parteien;ref:63940;6: Ausgaben;;0
+SKR42;;63950;Zuwendungen, Spenden in das zu erhaltende Vermögen (Vermögensstock) einer Stiftung für gemeinnützige Zwecke;ref:63950;6: Ausgaben;;0
+SKR42;;63970;Zuwendungen, Spenden in das zu erhaltende Vermögen (Vermögensstock) einer Stiftung für kirchliche, religiöse und gemeinnützige Zwecke;ref:63970;6: Ausgaben;;0
+SKR42;;63980;Zuwendungen, Spenden an Stiftungen in das zu erhaltende Vermögen (Vermögensstock) für wissenschaftliche, mildtätige, kulturelle Zwecke;ref:63980;6: Ausgaben;;0
+SKR42;;64000;Versicherungen;ref:64000;6: Ausgaben;;0
+SKR42;;64050;Versicherungen für Gebäude;ref:64050;6: Ausgaben;;0
+SKR42;;64100;Netto-Prämie für Rückdeckung künftiger Versorgungsleistungen;ref:64100;6: Ausgaben;;0
+SKR42;;64200;Beiträge;ref:64200;6: Ausgaben;;0
+SKR42;;64300;Sonstige Abgaben;ref:64300;6: Ausgaben;;0
+SKR42;;64360;Steuerlich abzugsfähige Verspätungszuschläge und Zwangsgelder;ref:64360;6: Ausgaben;;0
+SKR42;;64370;Steuerlich nicht abzugsfähige Verspätungszuschläge und Zwangsgelder;ref:64370;6: Ausgaben;;0
+SKR42;;64400;Ausgleichsabgabe nach dem Schwerbehindertengesetz;ref:64400;6: Ausgaben;;0
+SKR42;;64500;Reparaturen und Instandhaltung von Bauten;ref:64500;6: Ausgaben;;0
+SKR42;;64600;Reparaturen und Instandhaltung von technischen Anlagen und Maschinen;ref:64600;6: Ausgaben;;0
+SKR42;;64700;Reparaturen und Instandhaltungen von anderen Anlagen und Betriebsund Geschäftsausstattung;ref:64700;6: Ausgaben;;0
+SKR42;;64850;Reparaturen und Instandhaltung von anderen Anlagen;ref:64850;6: Ausgaben;;0
+SKR42;;64900;Sonstige Reparaturen und Instandhaltungen;ref:64900;6: Ausgaben;;0
+SKR42;;64950;Wartungskosten für Hard- und Software;ref:64950;6: Ausgaben;;0
+SKR42;;64980;Mietleasing bewegliche Wirtschaftsgüter für technische Anlagen und Maschinen;ref:64980;6: Ausgaben;;0
+SKR42;;65200;Fahrzeug-Versicherungen;ref:65200;6: Ausgaben;;0
+SKR42;;65300;Laufende Fahrzeug-Betriebskosten;ref:65300;6: Ausgaben;;0
+SKR42;;65400;Fahrzeug-Reparaturen;ref:65400;6: Ausgaben;;0
+SKR42;;65500;Garagenmiete;ref:65500;6: Ausgaben;;0
+SKR42;;65600;Mietleasing Kfz;ref:65600;6: Ausgaben;;0
+SKR42;;65650;Mietleasingaufwendungen für Elektrofahrzeuge und Fahrräder, die gewerbesteuerlich hinzuzurechnen sind;ref:65650;6: Ausgaben;;0
+SKR42;;65700;Sonstige Fahrzeugkosten;ref:65700;6: Ausgaben;;0
+SKR42;;65800;Mautgebühren;ref:65800;6: Ausgaben;;0
+SKR42;;65950;Fremdfahrzeugkosten;ref:65950;6: Ausgaben;;0
+SKR42;;66000;Werbekosten;ref:66000;6: Ausgaben;;0
+SKR42;;66050;Streuartikel;ref:66050;6: Ausgaben;;0
+SKR42;;66100;Geschenke abzugsfähig ohne § 37b EStG;ref:66100;6: Ausgaben;;0
+SKR42;;66110;Geschenke abzugsfähig mit § 37b EStG;ref:66110;6: Ausgaben;;0
+SKR42;;66120;Pauschale Steuer für Geschenke und Zuwendungen abzugsfähig;ref:66120;6: Ausgaben;;0
+SKR42;;66200;Geschenke nicht abzugsfähig ohne § 37b EStG;ref:66200;6: Ausgaben;;0
+SKR42;;66210;Geschenke nicht abzugsfähig mit § 37b EStG;ref:66210;6: Ausgaben;;0
+SKR42;;66220;Pauschale Steuer für Geschenke und Zuwendungen nicht abzugsfähig;ref:66220;6: Ausgaben;;0
+SKR42;;66250;Geschenke ausschließlich betrieblich genutzt;ref:66250;6: Ausgaben;;0
+SKR42;;66290;Zugaben mit § 37b EStG;ref:66290;6: Ausgaben;;0
+SKR42;;66300;Repräsentationskosten;ref:66300;6: Ausgaben;;0
+SKR42;;66310;Kosten der Öffentlichkeitsarbeit;ref:66310;6: Ausgaben;;0
+SKR42;;66400;Bewirtungskosten;ref:66400;6: Ausgaben;;0
+SKR42;;66410;Sonstige eingeschränkt abziehbare Betriebsausgaben (abziehbarer Anteil);ref:66410;6: Ausgaben;;0
+SKR42;;66420;Sonstige eingeschränkt abziehbare Betriebsausgaben (nicht abziehbarer Anteil);ref:66420;6: Ausgaben;;0
+SKR42;;66430;Aufmerksamkeiten;ref:66430;6: Ausgaben;;0
+SKR42;;66440;Nicht abzugsfähige Bewirtungskosten;ref:66440;6: Ausgaben;;0
+SKR42;;66450;Nicht abzugsfähige Betriebsausgaben aus Werbe- und Repräsentationskosten;ref:66450;6: Ausgaben;;0
+SKR42;;66490;Nicht abzugsfähige Ausgaben;ref:66490;6: Ausgaben;;0
+SKR42;;66500;Reisekosten;ref:66500;6: Ausgaben;;0
+SKR42;;66600;Reisekosten Übernachtungsaufwand;ref:66600;6: Ausgaben;;0
+SKR42;;66630;Reisekosten Fahrtkosten;ref:66630;6: Ausgaben;;0
+SKR42;;66640;Reisekosten Verpflegungsmehraufwand;ref:66640;6: Ausgaben;;0
+SKR42;;66680;Kilometergelderstattung;ref:66680;6: Ausgaben;;0
+SKR42;;67000;Kosten der Warenabgabe;ref:67000;6: Ausgaben;;0
+SKR42;;67100;Verpackungsmaterial;ref:67100;6: Ausgaben;;0
+SKR42;;67400;Ausgangsfrachten;ref:67400;6: Ausgaben;;0
+SKR42;;67600;Transportversicherungen;ref:67600;6: Ausgaben;;0
+SKR42;;67700;Verkaufsprovisionen;ref:67700;6: Ausgaben;;0
+SKR42;;67800;Fremdarbeiten (Vertrieb);ref:67800;6: Ausgaben;;0
+SKR42;;67900;Aufwand für Gewährleistungen;ref:67900;6: Ausgaben;;0
+SKR42;;68000;Porto;ref:68000;6: Ausgaben;;0
+SKR42;;68050;Telefon;ref:68050;6: Ausgaben;;0
+SKR42;;68100;Internetkosten;ref:68100;6: Ausgaben;;0
+SKR42;;68150;Bürobedarf;ref:68150;6: Ausgaben;;0
+SKR42;;68200;Zeitschriften, Bücher, digitale Medien (Fachliteratur);ref:68200;6: Ausgaben;;0
+SKR42;;68210;Fortbildungskosten;ref:68210;6: Ausgaben;;0
+SKR42;;68220;Freiwillige Sozialleistungen;ref:68220;6: Ausgaben;;0
+SKR42;;68250;Rechts- und Beratungskosten;ref:68250;6: Ausgaben;;0
+SKR42;;68270;Abschluss- und Prüfungskosten;ref:68270;6: Ausgaben;;0
+SKR42;;68300;Buchführungskosten;ref:68300;6: Ausgaben;;0
+SKR42;;68350;Mieten für Einrichtungen (bewegliche Wirtschaftsgüter);ref:68350;6: Ausgaben;;0
+SKR42;;68360;Pacht (bewegliche Wirtschaftsgüter);ref:68360;6: Ausgaben;;0
+SKR42;;68370;Aufwendungen für die zeitlich befristete Überlassung von Rechten (Lizenzen, Konzessionen);ref:68370;6: Ausgaben;;0
+SKR42;;68380;Aufwendungen für gemietete oder gepachtete bewegliche Wirtschaftsgüter, die gewerbesteuerlich hinzuzurechnen sind;ref:68380;6: Ausgaben;;0
+SKR42;;68400;Mietleasing bewegliche Wirtschaftsgüter für Betriebs- und Geschäftsausstattung;ref:68400;6: Ausgaben;;0
+SKR42;;68450;Werkzeuge und Kleingeräte;ref:68450;6: Ausgaben;;0
+SKR42;;68500;Sonstiger Betriebsbedarf;ref:68500;6: Ausgaben;;0
+SKR42;;68550;Nebenkosten des Geldverkehrs;ref:68550;6: Ausgaben;;0
+SKR42;;68560;Aufwendungen aus Anteilen an Kapitalgesellschaften §§ 3 Nr. 40 und 3c EStG bzw. § 8b Abs. 1 und 4 KStG ,;ref:68560;6: Ausgaben;;0
+SKR42;;68570;Veräußerungskosten § 3 Nr. 40 EStG bzw. § 8b Abs. 2 KStG (bei Veräußerungsgewinn);ref:68570;6: Ausgaben;;0
+SKR42;;68580;Veräußerungskosten § 3 Nr. 40 EStG bzw. § 8b Abs. 3 KStG (bei Veräußerungsverlust);ref:68580;6: Ausgaben;;0
+SKR42;;68590;Aufwendungen für Abraum- und Abfallbeseitigung;ref:68590;6: Ausgaben;;0
+SKR42;;68600;Nicht abziehbare Vorsteuer;ref:68600;6: Ausgaben;;0
+SKR42;;68650;Nicht abziehbare Vorsteuer 7 %;ref:68650;6: Ausgaben;;0
+SKR42;;68710;Nicht abziehbare Vorsteuer 19 %;ref:68710;6: Ausgaben;;0
+SKR42;;68790;Verwahrentgelt;ref:68790;6: Ausgaben;;0
+SKR42;;68800;Aufwendungen aus der Währungsumrechnung;ref:68800;6: Ausgaben;;0
+SKR42;;68810;Aufwendungen aus der Währungsumrechnung (nicht § 256a HGB);ref:68810;6: Ausgaben;;0
+SKR42;;68830;Aufwendungen aus Bewertung Finanzmittelfonds;ref:68830;6: Ausgaben;;0
+SKR42;;68840;Erlöse aus Verkäufen Sachanlagevermögen steuerfrei § 4 Nr. 1a UStG (bei Buchverlust);ref:68840;6: Ausgaben;;0
+SKR42;;68850;Erlöse aus Verkäufen Sachanlagevermögen 19 % USt (bei Buchverlust);ref:68850;6: Ausgaben;;0
+SKR42;;68880;Erlöse aus Verkäufen Sachanlagevermögen steuerfrei § 4 Nr. 1b UStG (bei Buchverlust);ref:68880;6: Ausgaben;;0
+SKR42;;68890;Erlöse aus Verkäufen Sachanlagevermögen (bei Buchverlust);ref:68890;6: Ausgaben;;0
+SKR42;;68900;Erlöse aus Verkäufen immaterieller Vermögensgegenstände (bei Buchverlust);ref:68900;6: Ausgaben;;0
+SKR42;;68910;Erlöse aus Verkäufen Finanzanlagen (bei Buchverlust);ref:68910;6: Ausgaben;;0
+SKR42;;68920;Erlöse aus Verkäufen Finanzanlagen § 3 Nr. 40 EStG bzw. § 8b Abs. 3 KStG (bei Buchverlust);ref:68920;6: Ausgaben;;0
+SKR42;;68950;Anlagenabgänge Sachanlagen (Restbuchwert bei Buchverlust);ref:68950;6: Ausgaben;;0
+SKR42;;68960;Anlagenabgänge immaterielle Vermögensgegenstände (Restbuchwert bei Buchverlust);ref:68960;6: Ausgaben;;0
+SKR42;;68970;Anlagenabgänge Finanzanlagen (Restbuchwert bei Buchverlust);ref:68970;6: Ausgaben;;0
+SKR42;;68980;Anlagenabgänge Finanzanlagen § 3 Nr. 40 EStG bzw. § 8b Abs. 3 KStG (Restbuchwert bei Buchverlust);ref:68980;6: Ausgaben;;0
+SKR42;;69030;Verluste aus der Veräußerung von Anteilen an Kapitalgesellschaften (Finanzanlagevermögen) § 3 Nr. 40 EStG bzw. § 8b Abs. 3 KStG;ref:69030;6: Ausgaben;;0
+SKR42;;69040;Abgänge Wertpapiere des Umlaufvermögens § 8b Abs. 3 KStG (Buchwert bei Buchverlust);ref:69040;6: Ausgaben;;0
+SKR42;;69050;Verluste aus dem Abgang von Gegenständen des Umlaufvermögens (außer Vorräte);ref:69050;6: Ausgaben;;0
+SKR42;;69060;Verluste aus dem Abgang von Gegenständen des Umlaufvermögens (außer Vorräte) § 3 Nr. 40 EStG bzw. § 8b Abs. 3 KStG;ref:69060;6: Ausgaben;;0
+SKR42;;69070;Abgang von Wirtschaftsgütern des Umlaufvermögens nach § 4 Abs. 3 S. 4 EStG;ref:69070;6: Ausgaben;;0
+SKR42;;69080;Abgang von Wirtschaftsgütern des Umlaufvermögens § 3 Nr. 40 EStG bzw. § 8b Abs. 3 KStG nach § 4 Abs. 3 S. 4 EStG;ref:69080;6: Ausgaben;;0
+SKR42;;69220;Einstellungen in die steuerliche Rücklage nach § 6b Abs. 3 EStG;ref:69220;6: Ausgaben;;0
+SKR42;;69270;Einstellungen in sonstige steuerliche Rücklagen;ref:69270;6: Ausgaben;;0
+SKR42;;69280;Einstellungen in die Rücklage für Ersatzbeschaffung nach R 6.6 EStR;ref:69280;6: Ausgaben;;0
+SKR42;;69290;Einstellungen in die steuerliche Rücklage nach § 4g EStG;ref:69290;6: Ausgaben;;0
+SKR42;;69300;Forderungsverluste (übliche Höhe);ref:69300;6: Ausgaben;;0
+SKR42;;69310;Forderungsverluste 7 % USt (übliche Höhe);ref:69310;6: Ausgaben;;0
+SKR42;;69320;Forderungsverluste aus steuerfreien EU-Lieferungen (übliche Höhe);ref:69320;6: Ausgaben;;0
+SKR42;;69330;Forderungsverluste aus im Inland steuerpflichtigen EU-Lieferungen 7 % USt (übliche Höhe);ref:69330;6: Ausgaben;;0
+SKR42;;69360;Forderungsverluste 19 % USt (übliche Höhe);ref:69360;6: Ausgaben;;0
+SKR42;;69380;Forderungsverluste aus im Inland steuerpflichtigen EU-Lieferungen 19 % USt (übliche Höhe);ref:69380;6: Ausgaben;;0
+SKR42;;69600;Periodenfremde Aufwendungen;ref:69600;6: Ausgaben;;0
+SKR42;;69670;Sonstige Aufwendungen betriebsfremd und regelmäßig;ref:69670;6: Ausgaben;;0
+SKR42;;69680;Sonstige nicht abziehbare Aufwendungen;ref:69680;6: Ausgaben;;0
+SKR42;;69690;Sonstige Aufwendungen unregelmäßig;ref:69690;6: Ausgaben;;0
+SKR42;;69700;Kalkulatorischer Unternehmerlohn;ref:69700;6: Ausgaben;;0
+SKR42;;69720;Kalkulatorische Miete und Pacht;ref:69720;6: Ausgaben;;0
+SKR42;;69740;Kalkulatorische Zinsen;ref:69740;6: Ausgaben;;0
+SKR42;;69760;Kalkulatorische Abschreibungen;ref:69760;6: Ausgaben;;0
+SKR42;;69780;Kalkulatorische Wagnisse;ref:69780;6: Ausgaben;;0
+SKR42;;69790;Kalkulatorischer Lohn für unentgeltliche Mitarbeiter;ref:69790;6: Ausgaben;;0
+SKR42;;69800;Verrechneter kalkulatorischer Unternehmerlohn;ref:69800;6: Ausgaben;;0
+SKR42;;69820;Verrechnete kalkulatorische Miete/Pacht;ref:69820;6: Ausgaben;;0
+SKR42;;69840;Verrechnete kalkulatorische Zinsen;ref:69840;6: Ausgaben;;0
+SKR42;;69860;Verrechnete kalkulatorische Abschreibungen;ref:69860;6: Ausgaben;;0
+SKR42;;69880;Verrechnete kalkulatorische Wagnisse;ref:69880;6: Ausgaben;;0
+SKR42;;69890;Verrechneter kalkulatorischer Lohn für unentgeltliche Mitarbeiter;ref:69890;6: Ausgaben;;0
+SKR42;;70000;Erträge aus Beteiligungen;ref:70000;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;70020;Erträge aus typisch stillen Beteiligungen;ref:70020;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;70030;Erträge aus atypisch stillen Beteiligungen;ref:70030;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;70040;Erträge aus Beteiligungen an Personengesellschaften (verbundene Unternehmen), § 9 GewStG bzw. § 18 EStG;ref:70040;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;70050;Erträge aus Anteilen an Kapitalgesellschaften (Beteiligung) § 3 Nr. 40 EStG bzw. § 8b Abs. 1 KStG;ref:70050;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;70060;Erträge aus Anteilen an Kapitalgesellschaften (verbundene Unternehmen) § 3 Nr. 40 EStG bzw. § 8b Abs. 1 KStG;ref:70060;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;70080;Gewinnanteile aus gewerblichen und selbständigen Mitunternehmerschaften, § 9 GewStG bzw. § 18 EStG;ref:70080;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;70090;Erträge aus Beteiligungen an verbundenen Unternehmen;ref:70090;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;70100;Erträge aus anderen Wertpapieren und Ausleihungen des Finanzanlagevermögens;ref:70100;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;70110;Erträge aus Ausleihungen des Finanzanlagevermögens;ref:70110;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;70120;Erträge aus Ausleihungen des Finanzanlagevermögens an verbundenen Unternehmen;ref:70120;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;70130;Erträge aus Anteilen an Personengesellschaften (Finanzanlagevermögen);ref:70130;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;70140;Erträge aus Anteilen an Kapitalgesellschaften (Finanzanlagevermögen) § 3 Nr. 40 EStG bzw. § 8b Abs. 1 und 4 KStG;ref:70140;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;70150;Erträge aus Anteilen an Kapitalgesellschaften (verbundene Unternehmen) § 3 Nr. 40 EStG bzw. § 8b Abs. 1 KStG;ref:70150;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;70160;Erträge aus Anteilen an Personengesellschaften (verbundene Unternehmen);ref:70160;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;70170;Erträge aus anderen Wertpapieren des Finanzanlagevermögens an Kapitalgesellschaften (verbundene Unternehmen);ref:70170;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;70180;Erträge aus anderen Wertpapieren des Finanzanlagevermögens an Personengesellschaften (verbundene Unternehmen);ref:70180;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;70190;Erträge aus anderen Wertpapieren und Ausleihungen des Finanzanlagevermögens aus verbundenen Unternehmen;ref:70190;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;70200;Zins- und Dividendenerträge;ref:70200;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;70300;Erhaltene Ausgleichszahlungen (als außenstehender Aktionär);ref:70300;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;71000;Sonstige Zinsen und ähnliche Erträge;ref:71000;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;71030;Erträge aus Anteilen an Kapitalgesellschaften (Umlaufvermögen) § 3 Nr. 40 EStG bzw. § 8b Abs. 1 und 4 KStG;ref:71030;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;71040;Erträge aus Anteilen an Kapitalgesellschaften (verbundene Unternehmen) § 3 Nr. 40 EStG bzw. § 8b Abs. 1 KStG;ref:71040;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;71050;Zinserträge § 233a AO, steuerpflichtig;ref:71050;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;71060;Zinserträge § 233a AO, steuerfrei (Anlage GK KSt);ref:71060;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;71070;Zinserträge § 233a AO und § 4 Abs. 5b EStG, steuerfrei;ref:71070;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;71090;Sonstige Zinsen und ähnliche Erträge aus verbundenen Unternehmen;ref:71090;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;71100;Sonstige Zinserträge;ref:71100;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;71150;Erträge aus anderen Wertpapieren und Ausleihungen des Umlaufvermögens;ref:71150;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;71190;Sonstige Zinserträge aus verbundenen Unternehmen;ref:71190;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;71200;Zinsähnliche Erträge;ref:71200;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;71290;Zinsähnliche Erträge aus verbundenen Unternehmen;ref:71290;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;71300;Diskonterträge;ref:71300;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;71390;Diskonterträge aus verbundenen Unternehmen;ref:71390;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;71910;Ertragsteuerfreie Einzahlungen zum Verlustausgleich;ref:71910;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;71920;Erhaltene Gewinne auf Grund einer Gewinngemeinschaft;ref:71920;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;71940;Erhaltene Gewinne auf Grund eines Gewinn- oder Teilgewinnabführungsvertrags;ref:71940;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;72080;Aufwendungen auf Grund von Verlustanteilen an gewerblichen und selbständigen Mitunternehmerschaften, § 8 GewStG bzw. § 18 EStG;ref:72080;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;73000;Zinsen und ähnliche Aufwendungen;ref:73000;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;73020;Steuerlich nicht abzugsfähige andere Nebenleistungen zu Steuern § 4 Abs. 5b EStG;ref:73020;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;73030;Steuerlich abzugsfähige andere Nebenleistungen zu Steuern;ref:73030;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;73040;Steuerlich nicht abzugsfähige andere Nebenleistungen zu Steuern;ref:73040;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;73050;Zinsaufwendungen § 233a AO abzugsfähig;ref:73050;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;73060;Zinsaufwendungen §§ 234 bis 237 AO nicht abzugsfähig;ref:73060;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;73080;Zinsaufwendungen § 233a AO nicht abzugsfähig;ref:73080;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;73090;Zinsaufwendungen an verbundene Unternehmen;ref:73090;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;73100;Zinsaufwendungen für kurzfristige Verbindlichkeiten;ref:73100;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;73110;Zinsaufwendungen §§ 234 bis 237 AO abzugsfähig;ref:73110;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;73180;Zinsen auf Kontokorrentkonten;ref:73180;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;73190;Zinsaufwendungen für kurzfristige Verbindlichkeiten an verbundene Unternehmen;ref:73190;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;73200;Zinsaufwendungen für langfristige Verbindlichkeiten;ref:73200;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;73230;Abschreibungen auf ein Agio oder Disagio/Damnum zur Finanzierung;ref:73230;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;73240;Abschreibungen auf ein Agio oder Disagio/Damnum zur Finanzierung des Anlagevermögens;ref:73240;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;73250;Zinsaufwendungen für Gebäude, die zum Betriebsvermögen gehören;ref:73250;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;73260;Zinsen zur Finanzierung des Anlagevermögens;ref:73260;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;73270;Renten und dauernde Lasten;ref:73270;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;73290;Zinsaufwendungen für langfristige Verbindlichkeiten an verbundene Unternehmen;ref:73290;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;73300;Zinsähnliche Aufwendungen;ref:73300;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;73390;Zinsähnliche Aufwendungen an verbundene Unternehmen;ref:73390;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;73400;Diskontaufwendungen;ref:73400;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;73490;Diskontaufwendungen an verbundene Unternehmen;ref:73490;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;73500;Zinsen und ähnliche Aufwendungen §§ 3 Nr. 40 und 3c EStG bzw. § 8b Abs. 1 und Abs. 4 KStG ,;ref:73500;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;73510;Zinsen und ähnliche Aufwendungen an verbundene Unternehmen §§ 3 Nr. 40 und 3c EStG bzw. § 8b Abs. 1 KStG;ref:73510;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;73550;Kreditprovisionen und Verwaltungskostenbeiträge;ref:73550;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;73900;Aufwendungen aus Verlustübernahme;ref:73900;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;76000;Körperschaftsteuer;ref:76000;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;76030;Körperschaftsteuer für Vorjahre;ref:76030;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;76040;Körperschaftsteuererstattungen für Vorjahre;ref:76040;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;76070;Solidaritätszuschlagerstattungen für Vorjahre;ref:76070;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;76080;Solidaritätszuschlag;ref:76080;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;76090;Solidaritätszuschlag für Vorjahre;ref:76090;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;76100;Gewerbesteuer;ref:76100;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;76300;Kapitalertragsteuer 25 %;ref:76300;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;76310;Kapitalertragsteuererstattung;ref:76310;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;76330;Anrechenbarer Solidaritätszuschlag auf Kapitalertragsteuer 25 %;ref:76330;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;76380;Ausländische Steuer auf im Inland steuerfreie DBA-Einkünfte;ref:76380;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;76390;Anrechnung / Abzug ausländische Quellensteuer;ref:76390;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;76410;Gewerbesteuernachzahlungen und Gewerbesteuererstattungen für Vorjahre nach § 4 Abs. 5b EStG;ref:76410;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;76500;Sonstige Betriebssteuern;ref:76500;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;76750;Verbrauchsteuer (sonstige Steuern);ref:76750;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;76780;Ökosteuer;ref:76780;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;76800;Grundsteuer;ref:76800;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;76850;Kfz-Steuer;ref:76850;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;76900;Steuernachzahlungen Vorjahre für sonstige Steuern;ref:76900;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;76920;Steuererstattungen Vorjahre für sonstige Steuern;ref:76920;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;77000;Gewinnvortrag / Ergebnisvortrag nach Verwendung;ref:77000;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;77200;Verlustvortrag / Ergebnisvortrag nach Verwendung;ref:77200;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;77300;Entnahmen aus der Kapitalrücklage;ref:77300;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;77380;Entnahmen aus anderen Gewinnrücklagen / aus sonstigen Ergebnisrücklagen;ref:77380;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;77450;Verminderung des Kapitals aus realisierten Vermögensumschichtungen;ref:77450;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;77470;Entnahmen aus den sonstigen nicht zeitnah zu verwendenden Mitteln / dem Vereinskapital;ref:77470;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;77490;Entnahmen aus gebundenen Rücklagen nach § 62 Abs. 1 Nr. 1 u. 2 AO;ref:77490;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;77510;Entnahmen aus freien Rücklagen nach § 62 Abs. 1 Nr. 3 AO;ref:77510;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;77530;Entnahmen aus Rücklagen zum Erwerb von Gesellschaftsrechten nach § 62 Abs. 1 Nr. 4 AO;ref:77530;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;77550;Verminderung des nutzungsgebundenen Kapitals;ref:77550;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;77570;Entnahmen aus der Kapitalerhaltungsrücklage;ref:77570;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;77590;Entnahmen aus der Ansparrücklage nach § 62 Abs. 4 AO;ref:77590;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;77600;Einstellungen in die Kapitalrücklage;ref:77600;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;77680;Einstellungen in andere Gewinnrücklagen / sonstige Ergebnisrücklagen;ref:77680;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;77750;Erhöhung des Kapitals aus realisierten Vermögensumschichtungen;ref:77750;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;77770;Einstellungen in die sonstigen nicht zeitnah zu verwendenden Mittel/das Vereinskapital;ref:77770;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;77790;Einstellungen in gebundene Rücklagen nach § 62 Abs. 1 Nr. 1 u. 2 AO;ref:77790;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;77810;Einstellungen in freie Rücklagen nach § 62 Abs. 1 Nr. 3 AO;ref:77810;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;77830;Einstellungen in Rücklagen zum Erwerb von Gesellschaftsrechten nach § 62 Abs. 1 Nr. 4 AO;ref:77830;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;77850;Erhöhung des nutzungsgebundenen Kapitals;ref:77850;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;77870;Einstellungen in die Kapitalerhaltungsrücklage;ref:77870;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;77890;Einstellungen in die Ansparrücklage nach § 62 Abs. 4 AO;ref:77890;7: Weitere Einnahmen und Ausgaben;;0
+SKR42;;90000;Saldenvorträge, Sachkonten;ref:90000;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;90010;Saldenvorträge, Sachkonten;ref:90010;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;90080;Saldenvorträge, Debitoren;ref:90080;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;90090;Saldenvorträge, Kreditoren;ref:90090;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;90500;Offene Posten aus 2020;ref:90500;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;90510;Offene Posten aus 2021;ref:90510;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;90520;Offene Posten aus 2022;ref:90520;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;90530;Offene Posten aus 2023;ref:90530;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;90540;Offene Posten aus 2024;ref:90540;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;90700;Offene Posten aus 2000;ref:90700;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;90710;Offene Posten aus 2001;ref:90710;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;90720;Offene Posten aus 2002;ref:90720;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;90730;Offene Posten aus 2003;ref:90730;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;90740;Offene Posten aus 2004;ref:90740;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;90750;Offene Posten aus 2005;ref:90750;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;90760;Offene Posten aus 2006;ref:90760;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;90770;Offene Posten aus 2007;ref:90770;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;90780;Offene Posten aus 2008;ref:90780;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;90790;Offene Posten aus 2009;ref:90790;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;90800;Offene Posten aus 2010;ref:90800;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;90810;Offene Posten aus 2011;ref:90810;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;90820;Offene Posten aus 2012;ref:90820;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;90830;Offene Posten aus 2013;ref:90830;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;90840;Offene Posten aus 2014;ref:90840;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;90850;Offene Posten aus 2015;ref:90850;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;90860;Offene Posten aus 2016;ref:90860;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;90870;Offene Posten aus 2017;ref:90870;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;90880;Offene Posten aus 2018;ref:90880;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;90890;Offene Posten aus 2019;ref:90890;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;90900;Summenvortragskonto;ref:90900;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;91010;Verkaufstage;ref:91010;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;91020;Anzahl der Barkunden;ref:91020;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;91030;Beschäftigte Personen;ref:91030;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;91040;Unbezahlte Personen;ref:91040;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;91050;Verkaufskräfte;ref:91050;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;91060;Geschäftsraum qm;ref:91060;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;91070;Verkaufsraum qm;ref:91070;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;91110;Umbuchung von Darlehen auf Restlaufzeit-Konten (BWA-Form;ref:91110;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;91160;Anzahl Rechnungen;ref:91160;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;91170;Anzahl Kreditkunden monatlich;ref:91170;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;91180;Anzahl Kreditkunden aufgelaufen;ref:91180;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;91200;Erweiterungsinvestitionen;ref:91200;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;91300;.Freies Konto;ref:91300;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;91350;Auftragseingang im Geschäftsjahr;ref:91350;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;91400;Auftragsbestand;ref:91400;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;91900;Gegenkonto für statistische Mengeneinheiten Konten 91010 - 91079 und Konten 91160 - 91189;ref:91900;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;91990;Gegenkonto zu Konten 91200, 91350 - 91899;ref:91990;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;92000;Beschäftigte Personen;ref:92000;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;92010;Statistische Konten für den Kennziffernteil Bilanz/BWA;ref:92010;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;92090;Gegenkonto zu 92000;ref:92090;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;92100;Produktive Löhne;ref:92100;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;92190;Gegenkonto zu 92100;ref:92190;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;92400;Investitionsverbindlichkeiten bei den Leistungsverbindlichkeiten;ref:92400;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;92410;Investitionsverbindlichkeiten aus Sachanlagekäufen bei Leistungsverbindlichkeiten;ref:92410;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;92420;Investitionsverbindlichkeiten aus Käufen von immateriellen Vermögensgegenständen bei Leistungsverbindlichkeiten;ref:92420;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;92430;Investitionsverbindlichkeiten aus Käufen von Finanzanlagen bei Leistungsverbindlichkeiten;ref:92430;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;92440;Gegenkonto zu Konten 92400 - 92439;ref:92440;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;92450;Forderungen aus Sachanlageverkäufen bei sonstigen Vermögensgegenständen;ref:92450;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;92460;Forderungen aus Verkäufen immaterieller Vermögensgegenstände bei sonstigen Vermögensgegenständen;ref:92460;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;92470;Forderungen aus Verkäufen von Finanzanlagen bei sonstigen Vermögensgegenständen;ref:92470;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;92490;Gegenkonto zu Konten 92450 - 92479;ref:92490;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;92701;Gegenkonto zu Konten 92791 - 92799 (Haben-Buchung);ref:92701;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;92791;Treuhandvermögen für den Ausweis unter der Bilanz bzw. der Vermögensübersicht;ref:92791;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;92870;Zinsen bei Buchungen über Debitoren bei § 4 Abs. 3 EStG;ref:92870;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;92880;Mahngebühren bei Buchungen über Debitoren bei § 4 Abs. 3 EStG;ref:92880;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;92890;Gegenkonto zu 92870 und 92880;ref:92890;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;92900;Statistisches Konto steuerfreie Auslagen;ref:92900;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;92910;Gegenkonto zu 92900;ref:92910;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;92920;Statistisches Konto Fremdgeld;ref:92920;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;92930;Gegenkonto zu 92920;ref:92930;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;93000;Statistische Konten für den Kennziffernteil Bilanz/BWA;ref:93000;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;93260;Statistische Konten für den Kennziffernteil Bilanz/BWA;ref:93260;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;93460;Statistische Konten für den Kennziffernteil Bilanz/BWA;ref:93460;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;93570;Statistische Konten für den Kennziffernteil Bilanz/BWA;ref:93570;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;93650;Statistische Konten für den Kennziffernteil Bilanz/BWA;ref:93650;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;93710;Statistische Konten für den Kennziffernteil Bilanz/BWA;ref:93710;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;93900;Konto für Branchenlösungen (Werte 1), (Zur freien Verfügung);ref:93900;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;93910;Konto für Branchenlösungen (Werte 2), (Zur freien Verfügung);ref:93910;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;93920;Konto für Branchenlösungen (Werte 3), (Zur freien Verfügung);ref:93920;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;93930;Konto für Branchenlösungen (Werte 4), (Zur freien Verfügung);ref:93930;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;93940;Gegenkonto für Branchenlösungen (Werte), (Zur freien Verfügung);ref:93940;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;93950;Konto für Branchenlösungen (Menge 1), (Zur freien Verfügung);ref:93950;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;93960;Konto für Branchenlösungen (Menge 2), (Zur freien Verfügung);ref:93960;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;93970;Konto für Branchenlösungen (Menge 3), (Zur freien Verfügung);ref:93970;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;93980;Konto für Branchenlösungen (Menge 4), (Zur freien Verfügung);ref:93980;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;93990;Gegenkonto für Branchenlösungen (Menge), (Zur freien Verfügung);ref:93990;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;98900;Statistisches Konto für den Gewinnzuschlag nach §§ 6b und 6c EStG (Haben);ref:98900;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;98910;Statistisches Konto für den Gewinnzuschlag nach §§ 6b und 6c EStG (Soll) - Gegenkonto zu 98900;ref:98910;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;98930;Umsatzsteuer in den Forderungen zum allgemeinen Umsatzsteuersatz (EÜR);ref:98930;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;98940;Umsatzsteuer in den Forderungen zum ermäßigten Umsatzsteuersatz (EÜR);ref:98940;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;98950;Gegenkonto 98930 - 98949 für die Aufteilung der Umsatzsteuer (EÜR);ref:98950;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;98960;Vorsteuer in den Verbindlichkeiten zum allgemeinen Umsatzsteuersatz (EÜR);ref:98960;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;98970;Vorsteuer in den Verbindlichkeiten zum ermäßigten Umsatzsteuersatz (EÜR);ref:98970;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;98980;Vorsteuer in den Verbindlichkeiten aus verschiedenen Kosten (EÜR);ref:98980;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;98990;Gegenkonto 98960 - 98979 für die Aufteilung der Vorsteuer (EÜR);ref:98990;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;99000;Umsatzsteuer nicht fällig - sonstige Erlöse (EÜR);ref:99000;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;99010;Gegenkonto zu 99000;ref:99010;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;99020;Umsatzsteuer in den Forderungen aus sonstigen Erlösen (EÜR);ref:99020;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;99060;Steuerfreie Einnahmen und Entnahmen nach § 3 Nr. 72 EStG (Soll);ref:99060;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;99070;Gegenkonto zu steuerfreien Einnahmen und Entnahmen nach § 3 Nr. 72 EStG (Haben);ref:99070;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;99080;Nicht abzugsfähige Betriebsausgaben nach § 3c Abs. 1 EStG i. V. m. § 3 Nr. 72 EStG (Haben);ref:99080;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;99090;Gegenkonto zu nicht abzugsfähigen Betriebsausgaben nach § 3c Abs. 1 EStG i. V. m. § 3 Nr. 72 EStG (Soll);ref:99090;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;99600;Hinzurechnung Investitionsabzugsbetrag § 7g Abs. 2 EStG aus dem 6. vorangegangenen Wirtschaftsjahr, außerbilanziell (Haben);ref:99600;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;99610;Rückgängigmachung Investitionsabzugsbetrag § 7g Abs. 3 und 4 EStG im 6. vorangegangenen Wirtschaftsjahr;ref:99610;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;99620;Hinzurechnung Investitionsabzugsbetrag § 7g Abs. 2 EStG aus dem 5. vorangegangenen Wirtschaftsjahr, außerbilanziell (Haben);ref:99620;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;99630;Rückgängigmachung Investitionsabzugsbetrag § 7g Abs. 3 und 4 EStG im 5. vorangegangenen Wirtschaftsjahr;ref:99630;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;99640;Hinzurechnung Investitionsabzugsbetrag § 7g Abs. 2 EStG aus dem 4. vorangegangenen Wirtschaftsjahr, außerbilanziell (Haben);ref:99640;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;99650;Rückgängigmachung Investitionsabzugsbetrag § 7g Abs. 3 und 4 EStG im 4. vorangegangenen Wirtschaftsjahr;ref:99650;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;99660;Hinzurechnung Investitionsabzugsbetrag § 7g Abs. 2 EStG aus dem 2. vorangegangenen Wirtschaftsjahr, außerbilanziell (Haben);ref:99660;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;99670;Hinzurechnung Investitionsabzugsbetrag § 7g Abs. 2 EStG aus dem 3. vorangegangenen Wirtschaftsjahr, außerbilanziell (Haben);ref:99670;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;99680;Rückgängigmachung Investitionsabzugsbetrag § 7g Abs. 3 und 4 EStG im 2. vorangegangenen Wirtschaftsjahr;ref:99680;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;99690;Rückgängigmachung Investitionsabzugsbetrag § 7g Abs. 3 und 4 EStG im 3. vorangegangenen Wirtschaftsjahr;ref:99690;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;99700;Investitionsabzugsbetrag § 7g Abs. 1 EStG, außerbilanziell (Soll);ref:99700;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;99710;Investitionsabzugsbetrag § 7g Abs. 1 EStG, außerbilanziell (Haben) - Gegenkonto zu 99700;ref:99710;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;99720;Hinzurechnung Investitionsabzugsbetrag § 7g Abs. 2 EStG aus dem vorangegangenen Wirtschaftsjahr, außerbilanziell (Haben);ref:99720;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;99730;Hinzurechnung Investitionsabzugsbetrag § 7g Abs. 2 EStG aus den vorangegangenen Wirtschaftsjahren, außerbilanziell (Soll) - Gegenkonto zu 99660, 99670, 99720;ref:99730;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;99740;Rückgängigmachung Investitionsabzugsbetrag § 7g Abs. 3 und 4 EStG im vorangegangenen Wirtschaftsjahr;ref:99740;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;99750;Rückgängigmachung Investitionsabzugsbetrag § 7g Abs. 3 und 4 EStG in den vorangegangenen Wirtschaftsjahren - Gegenkonto zu 99680, 99690, 99740;ref:99750;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;99760;Nicht abzugsfähige Zinsaufwendungen nach § 4h EStG (Haben);ref:99760;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;99770;Nicht abzugsfähige Zinsaufwendungen nach § 4h EStG (Soll) - Gegenkonto zu 99760;ref:99770;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;99780;Abziehbare Zinsaufwendungen aus Vorjahren nach § 4h EStG (Soll);ref:99780;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
+SKR42;;99790;Abziehbare Zinsaufwendungen aus Vorjahren nach § 4h EStG (Haben) - Gegenkonto zu 99780 Personenkonten;ref:99790;9: Vortrags-, Kapital-, Korrektur- und statistische Konten;;0
